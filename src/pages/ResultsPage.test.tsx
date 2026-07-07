@@ -8,6 +8,19 @@ import { encodeShareLink, decodeShareLink, type ShareableScores } from '../lib/s
 import { axes } from '../data/axes'
 import { questions } from '../data/questions'
 
+// PDF generation itself is covered by pdfReport.test.tsx against a small fixture.
+// Here we only care about the loading-state UX, so the actual (CPU-heavy, and
+// growing as more profile content is added) rendering work is mocked out —
+// otherwise this test's runtime tracks production content size instead of
+// testing button-state behavior.
+vi.mock('@react-pdf/renderer', async (importOriginal) => {
+  const actual = await importOriginal<typeof import('@react-pdf/renderer')>()
+  return {
+    ...actual,
+    pdf: () => ({ toBlob: async () => new Blob(['mock-pdf'], { type: 'application/pdf' }) }),
+  }
+})
+
 function buildFlatScores(t1Value: number, t2Value: number): ShareableScores {
   const t1Raw = {} as ShareableScores['t1Raw']
   const t2Raw = {} as ShareableScores['t2Raw']
@@ -87,7 +100,7 @@ describe('ResultsPage', () => {
     renderResultsPage(`?d=${encoded}`)
     fireEvent.click(screen.getByRole('button', { name: 'Download PDF Report' }))
     expect(screen.getByRole('button', { name: 'Generating...' })).toBeInTheDocument()
-    expect(await screen.findByRole('button', { name: 'Download PDF Report' }, { timeout: 10000 })).toBeInTheDocument()
+    expect(await screen.findByRole('button', { name: 'Download PDF Report' })).toBeInTheDocument()
   })
 
   it('copies a shareable link that round-trips via decodeShareLink', async () => {
