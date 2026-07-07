@@ -14,8 +14,9 @@ function renderIntroPage() {
   return render(
     <QuizProvider>
       <MemoryRouter initialEntries={['/']}>
+        <TagReadout />
         <Routes>
-          <Route path="/" element={<><IntroPage /><TagReadout /></>} />
+          <Route path="/" element={<IntroPage />} />
           <Route path="/quiz/1" element={<p>Axis Page</p>} />
         </Routes>
       </MemoryRouter>
@@ -41,5 +42,12 @@ describe('IntroPage', () => {
     renderIntroPage()
     fireEvent.click(screen.getByRole('button', { name: 'Start' }))
     expect(screen.getByText('Axis Page')).toBeInTheDocument()
+  })
+
+  it('a tag selected before Start survives the reset-on-Start click', () => {
+    renderIntroPage()
+    fireEvent.click(screen.getByLabelText('Automation-Exposed Worker'))
+    fireEvent.click(screen.getByRole('button', { name: 'Start' }))
+    expect(screen.getByTestId('tags').textContent).toBe('automation-exposed-worker')
   })
 })

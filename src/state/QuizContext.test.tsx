@@ -35,7 +35,7 @@ describe('QuizContext', () => {
     expect(screen.getByTestId('tags').textContent).toBe('automation-exposed-worker')
   })
 
-  it('reset clears answers, scenario answers, and tags, and rebuilds questionOrder', () => {
+  it('reset clears answers and scenario answers, rebuilds questionOrder, but preserves stakeholder tags', () => {
     render(<QuizProvider><TestConsumer /></QuizProvider>)
     fireEvent.click(screen.getByText('answer'))
     fireEvent.click(screen.getByText('scenario'))
@@ -43,7 +43,7 @@ describe('QuizContext', () => {
     fireEvent.click(screen.getByText('reset'))
     expect(screen.getByTestId('answer-1').textContent).toBe('unset')
     expect(screen.getByTestId('scenario-teleological').textContent).toBe('unset')
-    expect(screen.getByTestId('tags').textContent).toBe('')
+    expect(screen.getByTestId('tags').textContent).toBe('automation-exposed-worker')
     expect(screen.getByTestId('order-teleological-t1-length').textContent).toBe('7')
   })
 

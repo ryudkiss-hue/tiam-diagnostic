@@ -48,7 +48,7 @@ function quizReducer(state: QuizState, action: QuizAction): QuizState {
     case 'SET_STAKEHOLDER_TAGS':
       return { ...state, selectedStakeholderTags: action.tagIds }
     case 'RESET':
-      return buildInitialState()
+      return { ...buildInitialState(), selectedStakeholderTags: state.selectedStakeholderTags }
     default:
       return state
   }
