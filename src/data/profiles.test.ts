@@ -3,10 +3,10 @@ import { profiles } from './profiles'
 import { axes } from './axes'
 
 describe('profiles', () => {
-  it('has exactly 24 profiles with unique ids and names', () => {
-    expect(profiles).toHaveLength(24)
-    expect(new Set(profiles.map((p) => p.id)).size).toBe(24)
-    expect(new Set(profiles.map((p) => p.name)).size).toBe(24)
+  it('has exactly 34 profiles with unique ids and names', () => {
+    expect(profiles).toHaveLength(34)
+    expect(new Set(profiles.map((p) => p.id)).size).toBe(34)
+    expect(new Set(profiles.map((p) => p.name)).size).toBe(34)
   })
 
   it('defines a coordinate for every axis, within -10..10', () => {
@@ -18,5 +18,61 @@ describe('profiles', () => {
         expect(value).toBeLessThanOrEqual(10)
       })
     })
+  })
+})
+
+describe('coordinate revisions (design spec §8.2)', () => {
+  const byId = Object.fromEntries(profiles.map((p) => [p.id, p]))
+
+  it('widens Techno-Nationalist Hawk / Military AI Strategist', () => {
+    expect(byId['techno-nationalist-hawk'].coords).toEqual({
+      teleological: -3, risk: -1, socioEconomic: -5, ontological: -3,
+      legalMoral: -4, evolutionary: -2, relational: -3, geopolitical: 9,
+    })
+    expect(byId['military-ai-strategist'].coords).toEqual({
+      teleological: -2, risk: -4, socioEconomic: -7, ontological: -3,
+      legalMoral: -9, evolutionary: -3, relational: -3, geopolitical: 10,
+    })
+  })
+
+  it('widens EA Longtermist / Rationalist Alignment Researcher', () => {
+    expect(byId['ea-longtermist'].coords).toEqual({
+      teleological: -3, risk: 8, socioEconomic: -5, ontological: 4,
+      legalMoral: 8, evolutionary: -3, relational: 2, geopolitical: -6,
+    })
+    expect(byId['rationalist-alignment-researcher'].coords).toEqual({
+      teleological: -1, risk: 8, socioEconomic: 0, ontological: 6,
+      legalMoral: 2, evolutionary: -2, relational: -1, geopolitical: -5,
+    })
+  })
+
+  it('widens AI Safety Institutionalist / Global Governance Technocrat', () => {
+    expect(byId['ai-safety-institutionalist'].coords).toEqual({
+      teleological: -4, risk: 7, socioEconomic: -4, ontological: 1,
+      legalMoral: 2, evolutionary: -5, relational: -2, geopolitical: -3,
+    })
+    expect(byId['global-governance-technocrat'].coords).toEqual({
+      teleological: -2, risk: 6, socioEconomic: -9, ontological: 0,
+      legalMoral: -1, evolutionary: -4, relational: -1, geopolitical: -9,
+    })
+  })
+})
+
+describe('new archetypes (design spec §8.3)', () => {
+  it('includes all 10 new profile ids', () => {
+    const ids = profiles.map((p) => p.id)
+    const expectedNewIds = [
+      'global-south-techno-sovereigntist',
+      'creative-labor-artist-rights-advocate',
+      'whistleblower-insider-safety-advocate',
+      'compute-governance-specialist',
+      'eu-style-regulatory-standard-setter',
+      'platform-cooperativist',
+      'faith-rooted-ai-ethicist',
+      'indigenous-data-sovereignty-advocate',
+      'disability-rights-accessibility-advocate',
+      'labor-movement-collective-bargaining-advocate',
+    ]
+    expectedNewIds.forEach((id) => expect(ids).toContain(id))
   })
 })
