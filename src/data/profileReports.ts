@@ -1047,4 +1047,34 @@ export const profileReports: Record<string, ProfileReportContent> = {
       distinction: "Both focus on documented, present-day harm rather than speculative futures, but Near-Term AI Ethicist studies and names harms broadly. AI Ethics/Fairness Watchdog is specifically adversarial — auditing whether a company's own stated ethics commitments hold up under outside scrutiny, not harms in general.",
     },
   },
+  'human-ai-augmentation-advocate': {
+    profileId: 'human-ai-augmentation-advocate',
+    extendedNarrative: [
+      "You believe the best future isn't one where AI replaces human judgment, or one where humans reject AI outright, but one where the two work in close partnership. To you, the interesting question was never 'human or machine' — it's how to combine what each does best.",
+      "You point to concrete, working examples of this partnership already outperforming either side alone, and you think the goal of AI development should be building more of those partnerships deliberately, not racing toward full autonomy or retreating from the technology entirely.",
+    ],
+    thinkers: [
+      { name: 'Garry Kasparov', bio: 'Chess grandmaster, former World Chess Champion', connection: "His book Deep Thinking, written after his 1997 loss to IBM's Deep Blue, argues that AI is 'in the final analysis a tool to augment human creativity.' His own 'centaur chess' experiments showed a human-computer team outplaying either a grandmaster or a computer alone." },
+      { name: 'Fei-Fei Li', bio: 'Computer scientist, Stanford, co-director of Stanford HAI', connection: 'Her memoir The Worlds I See describes human and artificial intelligence as forming a "double helix" — advocating for AI development anchored in human-centered values rather than a race toward replacing human judgment.' },
+      { name: 'Daniela Rus', bio: 'Director of MIT CSAIL, robotics researcher', connection: 'Her public work on robotics envisions machines "pervasively integrated into the fabric of life," supporting people with cognitive and physical tasks — collaboration and augmentation, not substitution.' },
+    ],
+    furtherReading: [
+      { title: 'Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins', author: 'Garry Kasparov', note: 'A firsthand account of losing to a machine, then discovering that human-machine teams beat either one alone — the founding case for this stance.' },
+      { title: 'The Worlds I See', author: 'Fei-Fei Li', note: 'A memoir making the case for AI development anchored in human values and collaboration rather than pure capability escalation.' },
+    ],
+    nextSteps: [
+      "Look into a real-world example of human-AI collaboration outperforming either alone, like advanced chess or a diagnostic-support tool used alongside doctors.",
+      'Read a critique of the augmentation framing to see whether "partnership" descriptions hold up as AI systems become more capable on their own.',
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming that whether an AI is conscious matters less than whether the human-AI team, together, produces better judgment than either part alone.",
+      laborAssumption: "You're likely assuming that AI reshapes jobs by changing what people do within them, rather than simply eliminating the need for people.",
+      connectionAssumption: "You're likely assuming that AI's most valuable role in a relationship is as a capability-extending partner, not a companion or a replacement for one.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'pragmatic-centrist',
+      profileName: 'Pragmatic Centrist',
+      distinction: "Pragmatic Centrist's centrist-looking scores come from genuine, unresolved uncertainty across every axis. Human-AI Augmentation Advocate's similar-looking scores come from a specific, settled position — that human judgment and machine capability are both real and both valuable, and the future lies in combining them deliberately, not from being undecided about either one.",
+    },
+  },
 }

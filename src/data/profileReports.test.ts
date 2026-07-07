@@ -61,8 +61,14 @@ describe('profileReports (batch 7: coverage-gap archetypes, added 2026-07-07)', 
   })
 })
 
+describe('profileReports (batch 8: augmentation-gap archetype, added 2026-07-07)', () => {
+  it('has a complete entry for human-ai-augmentation-advocate', () => {
+    checkShape('human-ai-augmentation-advocate')
+  })
+})
+
 describe('profileReports completeness', () => {
-  it('has exactly one entry per profile, for all 36 profiles, with no orphans', () => {
+  it('has exactly one entry per profile, for all 37 profiles, with no orphans', () => {
     const profileIds = profiles.map((p) => p.id)
     const reportIds = Object.keys(profileReports)
     expect(reportIds.sort()).toEqual(profileIds.sort())
