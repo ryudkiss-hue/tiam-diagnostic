@@ -690,6 +690,8 @@ export const profileReports: Record<string, ProfileReportContent> = {
     furtherReading: [
       { title: 'Superforecasting', author: 'Philip Tetlock and Dan Gardner', note: 'A case for calibrated uncertainty and resisting the pull toward confident extremes, the same instinct behind this stance.' },
       { title: 'Thinking, Fast and Slow', author: 'Daniel Kahneman', note: 'Background on why confident, extreme positions often feel more compelling than they deserve to.' },
+      { title: 'AI and Consciousness: Shifting Focus Towards Tractable Questions', author: 'Iulia M. Comsa', note: "A 2026 preprint arguing that whether AI is conscious is currently intractable, since no accepted scientific theory of consciousness exists yet — so research should focus on the separate, answerable question of why humans perceive AI as conscious. A real example of the field itself declining to force a premature answer." },
+      { title: 'Consciousness in Artificial Intelligence? A Framework for Classifying Objections and Constraints', author: 'Andres Campero, Derek Shiller, Jaan Aru, and Jonathan Simon', note: "A 2025 paper that doesn't argue AI is or isn't conscious — it builds a taxonomy for organizing the many competing objections in the literature, from weak ones that leave digital consciousness possible to strong ones claiming it's outright impossible. Useful evidence that specialists are still building tools to organize the disagreement, not resolving it." },
     ],
     nextSteps: [
       'Read arguments from two opposing extreme stances back to back, to sharpen your own sense of where the real uncertainty lies.',
