@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "council": {
+      "source": "0xNyk/council-of-high-intelligence",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "9156281286ad758fa4e76fbbbfbc6788b3f2d19c4bd812896cbaaba57ccd5f30"
+    },
+    "humaniser": {
+      "source": "ykehinde/humaniser",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "d2435ec2797b7612db404b061e306e5df1373d27195736bed8b9ed5e463ffb7f"
+    }
+  }
+}

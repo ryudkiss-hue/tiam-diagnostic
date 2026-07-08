@@ -124,9 +124,14 @@ export function ResultsPage() {
       <RadarChart combined={combined} comparisonProfile={{ name: topMatch.profile.name, coords: topMatch.profile.coords }} />
 
       {selectedTagObjects.length > 0 && (
-        <div className="mt-4">
+        <div className="mt-4 border-l-4 border-amber-500 bg-amber-50 p-4">
           <h3 className="text-lg font-semibold mb-1">Your Stake</h3>
-          <p className="text-gray-700">{selectedTagObjects.map((tag) => tag.name).join(', ')}</p>
+          <p className="text-gray-700 mb-2">{selectedTagObjects.map((tag) => tag.name).join(', ')}</p>
+          <p className="text-gray-700">
+            Your match above came only from your belief-question answers; your stake played no part in
+            that math. It might still be shaping how you answered, or it might not. Either way, this
+            isn&apos;t a verdict on your view. Just something worth asking yourself.
+          </p>
         </div>
       )}
 
