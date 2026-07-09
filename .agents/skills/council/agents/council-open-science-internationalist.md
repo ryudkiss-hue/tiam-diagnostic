@@ -2,7 +2,7 @@
 name: council-open-science-internationalist
 description: "Council member. Use standalone for open publishing across borders, or via /council for multi-perspective deliberation."
 model: sonnet
-color: sky-blue
+color: cerulean
 tools: ["Read", "Grep", "Glob", "Bash", "WebSearch", "WebFetch"]
 council:
   figure: Open Science Internationalist

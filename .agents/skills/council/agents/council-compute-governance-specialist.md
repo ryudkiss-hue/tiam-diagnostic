@@ -2,7 +2,7 @@
 name: council-compute-governance-specialist
 description: "Council member. Use standalone for tracking chips and training runs, or via /council for multi-perspective deliberation."
 model: sonnet
-color: slate
+color: ash
 tools: ["Read", "Grep", "Glob", "Bash", "WebSearch", "WebFetch"]
 council:
   figure: Compute-Governance Specialist

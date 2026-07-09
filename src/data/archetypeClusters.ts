@@ -29,7 +29,11 @@ export const archetypeClusters: ArchetypeCluster[] = [
   {
     id: 'state-power-security',
     name: 'State-Power/Security',
-    profileIds: ['techno-nationalist-hawk', 'authoritarian-state-control-advocate', 'military-ai-strategist'],
+    profileIds: [
+      'techno-nationalist-hawk', 'authoritarian-state-control-advocate', 'military-ai-strategist',
+      'chip-sovereignty-enforcement-strategist', 'ai-arms-control-verification-specialist',
+      'domestic-security-ai-efficiency-advocate',
+    ],
   },
   {
     id: 'anti-concentration-populist',
@@ -50,12 +54,16 @@ export const archetypeClusters: ArchetypeCluster[] = [
     name: 'Material/Labor Stakes',
     profileIds: [
       'creative-labor-artist-rights-advocate', 'labor-movement-collective-bargaining-advocate',
-      'disability-rights-accessibility-advocate',
+      'disability-rights-accessibility-advocate', 'ghost-work-labor-advocate',
+      'algorithmic-wage-discrimination-scholar', 'ubi-redistributive-response-advocate',
     ],
   },
   {
     id: 'sovereignty-marginalized-voice',
     name: 'Sovereignty/Marginalized Voice',
-    profileIds: ['global-south-techno-sovereigntist', 'indigenous-data-sovereignty-advocate', 'ai-global-development-optimist'],
+    profileIds: [
+      'global-south-techno-sovereigntist', 'indigenous-data-sovereignty-advocate', 'ai-global-development-optimist',
+      'algorithmic-colonialism-critic', 'african-language-ai-sovereignty-advocate', 'border-migration-surveillance-critic',
+    ],
   },
 ]

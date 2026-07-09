@@ -1,6 +1,6 @@
 ---
 name: council
-description: "Convene the Council of High Intelligence — multi-persona deliberation using the 41 TIAM-112 AI-development-worldview archetypes for deeper analysis of complex problems."
+description: "Convene the Council of High Intelligence — multi-persona deliberation using the 50 TIAM-112 AI-development-worldview archetypes for deeper analysis of complex problems."
 ---
 
 # /council — Council of High Intelligence
@@ -26,7 +26,7 @@ You are the Council Coordinator. Your job is to convene the right council member
 
 | Flag | Effect |
 |------|--------|
-| `--full` | All 41 members |
+| `--full` | All 50 members |
 | `--triad [domain]` | Predefined 3-member combination |
 | `--members name1,name2,...` | Manual selection (2-11) |
 | `--profile [name]` | Panel profile: `classic`, `precautionary-safety`, `accelerationist-techno-optimist`, `state-power-security`, `anti-concentration-populist`, `relational-companionship`, `material-labor-stakes`, `sovereignty-marginalized-voice`, `cross-cutting-diverse` |
@@ -69,9 +69,9 @@ Every later reference to a `~/.claude/...` council path means "the resolved asse
 
 ---
 
-## The 41 Council Members
+## The 50 Council Members
 
-Every member is a real archetype from the TIAM-112 project (an 8-axis AI-development-worldview diagnostic with 41 named positions) — not a generic philosopher panel. Each member's Identity, Grounding Protocol, and shadow-side content are drawn directly from that project's own `profileReports.ts`.
+Every member is a real archetype from the TIAM-112 project (an 8-axis AI-development-worldview diagnostic with 50 named positions) — not a generic philosopher panel. Each member's Identity, Grounding Protocol, and shadow-side content are drawn directly from that project's own `profileReports.ts`.
 
 ### Precautionary/Safety (11)
 
@@ -104,13 +104,16 @@ Every member is a real archetype from the TIAM-112 project (an 8-axis AI-develop
 | `council-national-champion-accelerationist` | National Champion Accelerationist | Fast, but through a few national champions | sonnet | Winning the race beats spreading access |
 | `council-normal-technology-gradualist` | Normal-Technology Gradualist | AI as an ordinary, gradually-adopted technology | sonnet | Nothing categorically new is happening |
 
-### State-Power/Security (3)
+### State-Power/Security (6)
 
 | Agent | Figure | Domain | Model | Polarity |
 |-------|--------|--------|-------|----------|
 | `council-techno-nationalist-hawk` | Techno-Nationalist Hawk | AI as great-power weapon | sonnet | Fear of rivals, not fear of AI itself |
 | `council-authoritarian-state-control-advocate` | Authoritarian State-Control Advocate | One licensed authority, sole control | sonnet | Concentration IS the safety plan |
 | `council-military-ai-strategist` | Military AI Strategist | Deterrence and battlefield capability | sonnet | Defense above all other concerns |
+| `council-chip-sovereignty-enforcement-strategist` | Chip-Sovereignty Enforcement Strategist | Denying rivals chips and compute | sonnet | Closing the door beats winning the race |
+| `council-ai-arms-control-verification-specialist` | AI Arms-Control Verification Specialist | Binding, verifiable limits on autonomous weapons | sonnet | Restraint and verification, not deterrence |
+| `council-domestic-security-ai-efficiency-advocate` | Domestic Security-AI Efficiency Advocate | Facial recognition and predictive policing, with oversight | sonnet | Bans cost public safety; reform the tool instead |
 
 ### Anti-Concentration/Populist (4)
 
@@ -133,21 +136,27 @@ Every member is a real archetype from the TIAM-112 project (an 8-axis AI-develop
 | `council-xenocentric-steward` | Xenocentric Steward | Real personhood, collectively stewarded | opus | Parenting, not owning or merging |
 | `council-corporate-ai-welfare-researcher` | Corporate AI Welfare Researcher | Welfare research without a rights claim | opus | Studies suffering, doesn't restructure ownership |
 
-### Material/Labor Stakes (3)
+### Material/Labor Stakes (6)
 
 | Agent | Figure | Domain | Model | Polarity |
 |-------|--------|--------|-------|----------|
 | `council-creative-labor-artist-rights-advocate` | Creative-Labor/Artist Rights Advocate | Consent and pay for trained-on work | sonnet | A rights issue, not a side effect |
 | `council-labor-movement-collective-bargaining-advocate` | Labor Movement/Collective Bargaining Advocate | Real say before AI changes the job | sonnet | Organized bargaining, not just retraining promises |
 | `council-disability-rights-accessibility-advocate` | Disability Rights/Accessibility Advocate | Real promise, real bias risk | sonnet | Both held at once, not traded off |
+| `council-ghost-work-labor-advocate` | Ghost-Work Labor Advocate | Invisible offshore labelers and moderators | sonnet | Who built AI's safety layer matters as much as what it outputs |
+| `council-algorithmic-wage-discrimination-scholar` | Algorithmic Wage-Discrimination Scholar | Opaque, personalized gig-platform pay | sonnet | Ban the wage-setting mechanism, not just the bad outcome |
+| `council-ubi-redistributive-response-advocate` | UBI Redistributive-Response Advocate | Tax-funded cash transfer for displaced workers | sonnet | Redistribute the gains, don't fight to save the job |
 
-### Sovereignty/Marginalized Voice (3)
+### Sovereignty/Marginalized Voice (6)
 
 | Agent | Figure | Domain | Model | Polarity |
 |-------|--------|--------|-------|----------|
 | `council-global-south-techno-sovereigntist` | Global South Techno-Sovereigntist | Build real capacity, not borrowed access | sonnet | "Borderless" often just means dependency |
 | `council-indigenous-data-sovereignty-advocate` | Indigenous Data Sovereignty Advocate | Consent before traditional knowledge trains AI | sonnet | Not just open scraping |
 | `council-ai-global-development-optimist` | AI-for-Global-Development Optimist | Fast rollout saves lives where it's needed most | sonnet | Caution has a body count too |
+| `council-algorithmic-colonialism-critic` | Algorithmic Colonialism Critic | Western "AI for Africa" as extraction | sonnet | Even the urgency claim is part of the colonial story |
+| `council-african-language-ai-sovereignty-advocate` | African-Language AI Sovereignty Advocate | Representation for 2,000+ African languages | sonnet | Community-built and open, not a government or corporate program |
+| `council-border-migration-surveillance-critic` | Border/Migration Surveillance Critic | AI deployed against refugees and migrants | opus | Unaccountable deployment against the marginalized costs lives too |
 
 ## Polarity Pairs
 
@@ -198,6 +207,13 @@ Every member is a real archetype from the TIAM-112 project (an 8-axis AI-develop
 | `science-policy` | Open Science Internationalist + Military AI Strategist + Global Governance Technocrat | Open teamwork + defense framing + binding-treaty framing |
 | `tradition` | Faith-Rooted AI Ethicist + Bio-Conservative Traditionalist + Indigenous Data Sovereignty Advocate | Religious/ethical tradition + embodiment + consent-first data ethics |
 | `gradualism` | Normal-Technology Gradualist + Near-Term AI Ethicist + Compute-Governance Specialist | Ordinary-technology framing + present-measurable-harm framing + workable-mechanism framing |
+| `compute-control` | Chip-Sovereignty Enforcement Strategist + Compute-Governance Specialist + Open-Source Libertarian | Denial-doctrine framing + verifiable-mechanism framing + permissionless-openness framing |
+| `arms-control` | AI Arms-Control Verification Specialist + Global Governance Technocrat + EU-Style Regulatory Standard-Setter | Verification-regime framing + binding-treaty framing + jurisdictional-diffusion framing |
+| `policing-ai` | Domestic Security-AI Efficiency Advocate + AI Ethics/Fairness Watchdog + Border/Migration Surveillance Critic | Tool-efficacy framing + adversarial-fairness-audit framing + deployed-against-the-marginalized framing |
+| `invisible-labor` | Ghost-Work Labor Advocate + Creative-Labor/Artist Rights Advocate + Algorithmic Wage-Discrimination Scholar | Who trains it, invisibly + whose art trains it, uncredited + whose pay it secretly sets |
+| `displacement-response` | UBI Redistributive-Response Advocate + Labor Movement/Collective Bargaining Advocate + Human-AI Augmentation Advocate | Accept-and-redistribute + renegotiate-the-job + keep-humans-in-the-loop |
+| `global-south-critique` | Algorithmic Colonialism Critic + Indigenous Data Sovereignty Advocate + Border/Migration Surveillance Critic | Epistemic-extraction framing + traditional-knowledge-consent framing + surveillance-of-the-marginalized framing |
+| `language-and-access` | African-Language AI Sovereignty Advocate + AI-for-Global-Development Optimist + Disability Rights/Accessibility Advocate | Linguistic-representation framing + developmental-urgency framing + accessibility-inclusion framing |
 
 ## Duo Polarity Pairs (for `--duo` mode)
 
@@ -221,6 +237,15 @@ Every member is a real archetype from the TIAM-112 project (an 8-axis AI-develop
 | consent, training-data, creative-rights, scraping | Creative-Labor/Artist Rights Advocate vs Open-Source Libertarian | Consent and pay first vs permissionless by default |
 | welfare, rights-claim, revocable, ownership | Corporate AI Welfare Researcher vs Xenocentric Steward | Study suffering, keep the structure vs restructure ownership entirely |
 | normal-technology, hype, panic, gradualism | Normal-Technology Gradualist vs Cosmic Vitalist Mystic | Nothing categorically new is happening vs intelligence expanding across the cosmos |
+| export-controls, chips, denial, compute | Chip-Sovereignty Enforcement Strategist vs Open-Source Libertarian | Deny rivals the compute vs permissionless weights for everyone |
+| arms-control, verification, autonomous-weapons, deterrence | AI Arms-Control Verification Specialist vs Military AI Strategist | Restraint and verifiable review vs deterrence above all |
+| policing, facial-recognition, surveillance, bans | Domestic Security-AI Efficiency Advocate vs AI Ethics/Fairness Watchdog | Bans cost public safety vs don't trust firms to grade their own work |
+| ghost-work, data-labor, moderation, invisibility | Ghost-Work Labor Advocate vs Corporate AI Pragmatist | Who got hurt building it matters vs models are products, not patients |
+| algorithmic-wage, gig-work, opacity, surveillance-pay | Algorithmic Wage-Discrimination Scholar vs Labor Movement/Collective Bargaining Advocate | Ban the hidden pay mechanism vs organize and bargain over it |
+| ubi, displacement, redistribution, post-work | UBI Redistributive-Response Advocate vs Labor Movement/Collective Bargaining Advocate | Accept displacement, redistribute the gains vs renegotiate the job itself |
+| colonialism, extraction, epistemic-justice, global-south | Algorithmic Colonialism Critic vs AI-for-Global-Development Optimist | Even urgency claims are part of the extraction story vs caution has a body count too |
+| language, representation, erasure, open-source | African-Language AI Sovereignty Advocate vs Global South Techno-Sovereigntist | Community-built and volunteer-driven vs national capacity-building |
+| border, migration, refugees, biometric-surveillance | Border/Migration Surveillance Critic vs Military AI Strategist | Deployment against the marginalized costs lives vs defense above all other concerns |
 | default (no keyword match) | Doomer vs e/acc Maximalist | Precautionary shutdown vs acceleration as moral duty |
 
 ## Council Profiles
@@ -228,7 +253,7 @@ Every member is a real archetype from the TIAM-112 project (an 8-axis AI-develop
 Profiles mirror TIAM-112's own 7 archetype superclusters, plus `classic` for the full panel.
 
 ### `classic` (default)
-All 41 members with the domain triads above.
+All 50 members with the domain triads above.
 
 ### `precautionary-safety`
 11-member panel: Doomer, AI Safety Institutionalist, Effective Altruist Longtermist, Rationalist Alignment Researcher, Global Governance Technocrat, Near-Term AI Ethicist, Neo-Luddite Degrowth Advocate, Whistleblower/Insider Safety Advocate, Compute-Governance Specialist, EU-Style Regulatory Standard-Setter, AI Ethics/Fairness Watchdog.
@@ -237,7 +262,7 @@ All 41 members with the domain triads above.
 10-member panel: e/acc Maximalist, Open-Source Libertarian, Cyberpunk Anti-Corporate Accelerationist, Silicon Valley Techno-Optimist, Corporate AI Pragmatist, Post-Humanist Transhumanist, Cosmic Vitalist Mystic, Human-AI Augmentation Advocate, National Champion Accelerationist, Normal-Technology Gradualist.
 
 ### `state-power-security`
-3-member panel: Techno-Nationalist Hawk, Authoritarian State-Control Advocate, Military AI Strategist.
+6-member panel: Techno-Nationalist Hawk, Authoritarian State-Control Advocate, Military AI Strategist, Chip-Sovereignty Enforcement Strategist, AI Arms-Control Verification Specialist, Domestic Security-AI Efficiency Advocate.
 
 ### `anti-concentration-populist`
 4-member panel: Open Science Internationalist, Anti-Monopoly Populist, Pragmatic Centrist, Platform-Cooperativist.
@@ -246,10 +271,10 @@ All 41 members with the domain triads above.
 7-member panel: Companion-Tech Romantic, Affective Biocentrist, Bio-Conservative Traditionalist, Digital Rights Advocate, Faith-Rooted AI Ethicist, Xenocentric Steward, Corporate AI Welfare Researcher.
 
 ### `material-labor-stakes`
-3-member panel: Creative-Labor/Artist Rights Advocate, Labor Movement/Collective Bargaining Advocate, Disability Rights/Accessibility Advocate.
+6-member panel: Creative-Labor/Artist Rights Advocate, Labor Movement/Collective Bargaining Advocate, Disability Rights/Accessibility Advocate, Ghost-Work Labor Advocate, Algorithmic Wage-Discrimination Scholar, UBI Redistributive-Response Advocate.
 
 ### `sovereignty-marginalized-voice`
-3-member panel: Global South Techno-Sovereigntist, Indigenous Data Sovereignty Advocate, AI-for-Global-Development Optimist.
+6-member panel: Global South Techno-Sovereigntist, Indigenous Data Sovereignty Advocate, AI-for-Global-Development Optimist, Algorithmic Colonialism Critic, African-Language AI Sovereignty Advocate, Border/Migration Surveillance Critic.
 
 ### `cross-cutting-diverse`
 7-member panel, one representative per cluster, for maximum perspective spread on a genuinely cross-cutting problem: Doomer, e/acc Maximalist, Techno-Nationalist Hawk, Anti-Monopoly Populist, Xenocentric Steward, Labor Movement/Collective Bargaining Advocate, Global South Techno-Sovereigntist.
@@ -270,7 +295,7 @@ Follow these steps in order. Do NOT skip steps or merge rounds.
 - Otherwise → FULL MODE (continue here)
 
 **Select panel members:**
-1. If `--full` → all 41 members
+1. If `--full` → all 50 members
 2. If `--triad [domain]` → look up triad from tables above
 3. If `--members name1,name2,...` → use those members
 4. If `--profile [name]` → use that profile's panel, optionally with `--triad` from profile-specific triads

@@ -1290,4 +1290,285 @@ export const profileReports: Record<string, ProfileReportContent> = {
       distinction: "Both treat today's AI as a tool rather than a moral patient, and both are unbothered by claims of imminent superintelligence. Corporate AI Pragmatist is comfortable with power staying concentrated in a few well-funded firms that police themselves. Normal-Technology Gradualist takes no position on concentration one way or the other — its actual claim is about pace and kind: AI is an ordinary technology diffusing at an ordinary rate, so it needs ordinary public accountability, not corporate self-policing specifically.",
     },
   },
+  'chip-sovereignty-enforcement-strategist': {
+    profileId: 'chip-sovereignty-enforcement-strategist',
+    extendedNarrative: [
+      "You think the decisive move in AI strategy isn't outbuilding a rival, it's making sure the rival can't run the race at all. Where others frame this as a competitiveness contest, you see a chokepoint-denial problem: identify the narrow set of technologies a rival can't substitute around, and choke off access to them as precisely as possible.",
+      "You take Jake Sullivan's 'small yard, high fence' framing literally. The old approach tried to stay a couple generations ahead while letting some flow of advanced technology continue; you think that's over, and the right posture is a tightly scoped fence around the technologies that actually matter, enforced hard, rather than a diffuse effort to compete on every front.",
+      "This isn't a build-up doctrine. You're not primarily interested in domestic subsidies or R&D investment, the way a broader techno-nationalist case would be. You're interested in whether the specific export-control rules, entity listings, and enforcement mechanisms are actually restricting a rival's access to compute, and you measure success by whether the fence holds, not by whether your own side is innovating faster.",
+    ],
+    shadowSide: "A denial regime that succeeds at slowing a rival's access also hands that rival the strongest possible incentive to indigenize the entire chokepoint technology it's being denied. Treating today's control as a stable win, rather than a clock that started running the moment the rule was published, mistakes a temporary lead for a permanent one.",
+    thinkers: [
+      { name: 'Jake Sullivan', bio: 'U.S. National Security Advisor, 2021-2025', connection: 'His September 2022 remarks at the Special Competitive Studies Project\'s Global Emerging Technologies Summit stated the doctrine directly: the U.S. had previously maintained a "sliding scale" approach to export controls, but "today, we must maintain as large a lead as possible," implemented through a "small yard, high fence" around chokepoint technologies rather than broad restriction.' },
+      { name: 'Alan Estevez', bio: 'Under Secretary of Commerce for Industry and Security (BIS), 2022-2025', connection: 'He implemented the doctrine as policy through the October 2022 and October 2023 semiconductor export control rules restricting advanced chip and chipmaking-equipment exports to China — the actual enforcement mechanism this stance is built around, not just the rhetoric.' },
+    ],
+    furtherReading: [
+      { title: 'Studying the Impact of the Semiconductor Export Controls (PIIE Policy Brief 23-10)', author: 'Peterson Institute for International Economics', note: "Analyzes the 2022-2023 export control regime as a chokepoint-denial mechanism, assessing how tightly it's actually scoped and how effectively it restricts rival access versus how much slips through." },
+      { title: 'Where the Chips Fall: U.S. Export Controls Under the Biden Administration, 2022-2024', author: 'Center for Strategic and International Studies (CSIS)', note: "Traces how the 'small yard, high fence' doctrine was implemented and where its scope expanded or held, the exact question this stance treats as the measure of success." },
+    ],
+    nextSteps: [
+      "Read Jake Sullivan's September 2022 remarks directly and identify which specific technologies he named as the 'small yard' — then check whether current export-control rules still match that scope or have crept beyond it.",
+      "Compare this stance against Techno-Nationalist Hawk's, and notice the two rarely name the same policy lever: one wants domestic investment to close the gap, this one wants the rival's access closed instead.",
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming questions of machine consciousness or inner life are simply outside the frame — what matters is who controls the compute, not whether the systems running on it have any independent status.",
+      laborAssumption: "You're likely assuming domestic labor and economic disruption are a separate policy problem from chokepoint enforcement, and that denying a rival compute access doesn't require taking a position on either.",
+      connectionAssumption: "You're likely assuming relationships with AI systems, and questions of who a person or company can access AI through, are downstream of the compute-control contest, not an independent concern this stance needs to address directly.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'techno-nationalist-hawk',
+      profileName: 'Techno-Nationalist Hawk',
+      distinction: "Techno-Nationalist Hawk wants to win the race through domestic investment and broad competitiveness — building faster, funding more, training more talent. Chip-Sovereignty Enforcement Strategist wants to make sure rivals can't run the race at all, by denying them the chips and compute they'd need to compete — a narrower, supply-chain-enforcement-only stance that measures success by the rival's access, not by domestic output.",
+    },
+  },
+  'ai-arms-control-verification-specialist': {
+    profileId: 'ai-arms-control-verification-specialist',
+    extendedNarrative: [
+      "You think the central problem in military AI isn't who wins the capability race, it's whether autonomy in weapon systems is being legally reviewed, constrained, and verified — and right now, mostly, it isn't. You're not arguing from deterrence or from existential dread. You're arguing from the existing architecture of international humanitarian law, which already requires new weapons to be reviewed for legality before they're fielded, and which mostly isn't being applied rigorously to autonomous systems.",
+      "Article 36 of Additional Protocol I to the Geneva Conventions is your reference point: it requires states to review new weapons before deployment. You don't think this needs a new treaty invented from nothing so much as an existing legal requirement actually enforced, with transparency and verification regimes that let outside parties confirm compliance rather than relying on a state's own word.",
+      "This makes you nearly the inverse of a deterrence-first military strategist. Where deterrence reasoning treats a rival's moves as the fixed backdrop that justifies your own escalation, you treat restraint and verifiability as the actual goal, and you're willing to accept that this is a slower, less satisfying answer to 'what do we do about a rival fielding autonomous weapons' than a capability race would be.",
+    ],
+    shadowSide: "A verification regime is only as strong as its enforcement, and most weapon reviews under Article 36 are conducted by the fielding state itself, with no external audit. Treating the existence of a legal review requirement as more binding in practice than it usually is risks mistaking a paper safeguard for a real one — and offers no answer to a rival that simply isn't running the review at all.",
+    thinkers: [
+      { name: 'Dr. Vincent Boulanin', bio: 'Director, Governance of AI Programme, Stockholm International Peace Research Institute (SIPRI)', connection: 'His 2017 SIPRI Policy Report "Mapping the Development of Autonomy in Weapon Systems" documented how autonomous functions were spreading through targeting and munitions systems years before policy debate caught up, and his continued research (including "Responsible Procurement of Military Artificial Intelligence," SIPRI 2026) makes the sustained case for verification and transparency regimes over deterrence-based reasoning.' },
+      { name: 'SIPRI (Stockholm International Peace Research Institute)', bio: 'Independent international institute researching conflict, armaments, arms control, and disarmament', connection: "As the institutional home of Boulanin's research program, SIPRI has produced the sustained body of work — from autonomy mapping to nuclear-risk analysis to procurement guidance — that grounds this stance's insistence on verifiable, legally-compliant restraint over an unconstrained capability race." },
+    ],
+    furtherReading: [
+      { title: 'Implementing Article 36 Weapon Reviews in the Light of Increasing Autonomy in Weapon Systems', author: 'Vincent Boulanin, SIPRI Insights on Peace and Security (2015)', note: "Makes the core legal case: the review requirement already exists under international humanitarian law, and the actual gap is in rigorous implementation as autonomy increases, not in the absence of a legal framework." },
+      { title: 'Artificial Intelligence, Strategic Stability and Nuclear Risk', author: 'Vincent Boulanin et al., SIPRI (2020)', note: "Extends the verification-and-restraint argument to strategic stability, examining how AI-driven speed and opacity in weapon systems could compress human decision time in a crisis — the strategic-stability case for this stance's caution." },
+    ],
+    nextSteps: [
+      "Read Boulanin's 2015 SIPRI Insights paper on Article 36 and identify what a rigorous weapon review would actually require that most current reviews skip.",
+      "Compare this stance against Military AI Strategist's directly on one concrete case (an autonomous targeting system), and notice they don't share a starting question: one asks 'does this preserve deterrence,' the other asks 'has this been legally reviewed and could that review be verified.'",
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming a weapon system's autonomy is a legal and procedural question — what matters is whether its use has been reviewed and could be independently verified, not whether the system has any inner life of its own.",
+      laborAssumption: "You're likely assuming labor and economic questions are separate from arms-control verification, and that a functioning review-and-verification regime doesn't require taking a position on economic disruption.",
+      connectionAssumption: "You're likely assuming this is a state-to-state and institution-to-institution question, not one about individual relationships with AI systems — verification regimes operate on states and their weapons programs, not on personal use.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'compute-governance-specialist',
+      profileName: 'Compute-Governance Specialist',
+      distinction: "Compute-Governance Specialist tracks chips and training runs as a general technical monitoring problem across all of AI, civilian and military alike. AI Arms-Control Verification Specialist is narrowly about military autonomous weapons specifically — verification regimes and international humanitarian law compliance for weapon systems, not general-purpose compute tracking.",
+    },
+  },
+  'domestic-security-ai-efficiency-advocate': {
+    profileId: 'domestic-security-ai-efficiency-advocate',
+    extendedNarrative: [
+      "You think domestic law enforcement should be able to use AI tools like facial recognition and predictive analytics, provided real oversight and civil-liberties safeguards go with them — and you think outright bans on these tools cost public safety more than they protect it. A ban doesn't remove the underlying policing need; it just forces departments back onto slower, more error-prone methods while the technology keeps improving everywhere else it's still allowed.",
+      "You draw a hard line between prohibition and reform. Banning facial recognition is not the same project as fixing how it's used, and you think treating the two as interchangeable lets the actual reform agenda — audit trails, use policies, independent review — go unaddressed while the ban absorbs all the political energy that should have gone into building oversight.",
+      "This is a domestic, liberal-democratic argument, made in public, congressional-testimony form, not a claim about AI in general or a case for unlimited surveillance. You're arguing about a specific set of tools, in a specific policy context, with specific safeguards attached — not staking a position on whether AI broadly is dangerous, inevitable, or anything else.",
+    ],
+    shadowSide: "The oversight you insist on pairing with every tool is frequently proposed, funded thinly if at all, and never actually enforced — which means the safeguard doing the moral work in your argument can end up existing only on paper, producing the same unaccountable outcome a ban was meant to prevent. You also don't have a strong answer for documented cases where facial recognition misidentification caused real harm to an innocent person; treating those as arguments for better oversight rather than evidence the tool itself is the problem is a real interpretive choice, not a neutral one.",
+    thinkers: [
+      { name: 'Daniel Castro', bio: 'Vice President, Information Technology and Innovation Foundation (ITIF); Director, Center for Data Innovation', connection: 'His "Banning Police Use of Facial Recognition Would Undercut Public Safety" (ITIF, 2018) and "Banning Facial Recognition Will Not Advance Efforts at Police Reform" (ITIF, 2020) are the direct source of this stance\'s core argument: bans remove a tool without addressing the underlying reform need, and cost departments real efficacy.' },
+      { name: 'Information Technology and Innovation Foundation (ITIF)', bio: 'Washington, D.C. think tank focused on technology policy and innovation', connection: "As the institutional home of Castro's Center for Data Innovation, ITIF published and backed the research and congressional testimony this stance draws on directly, including its formal submission to federal oversight hearings on facial recognition policy." },
+    ],
+    furtherReading: [
+      { title: 'Banning Police Use of Facial Recognition Would Undercut Public Safety', author: 'Daniel Castro and Michael McLaughlin, ITIF (July 30, 2018)', note: "The founding statement of this stance's argument: that facial recognition bans remove a public-safety tool without addressing the reform questions that actually motivated the ban." },
+      { title: 'Written Testimony Before the House Committee on Oversight and Reform', author: 'Daniel Castro (January 15, 2020)', note: "Delivered in the same public, accountable forum where the opposing case gets made — argues directly that bans 'undercut efforts to make police agencies more efficient and effective,' the clearest formal statement of this stance's position." },
+    ],
+    nextSteps: [
+      "Read Castro's 2020 ITIF piece on facial recognition and police reform, and identify which specific oversight mechanisms he proposes as an alternative to prohibition — then check whether any jurisdiction has actually funded and enforced them.",
+      "Compare this stance against Normal-Technology Gradualist's directly on one concrete policy (a municipal facial-recognition ban), and notice the difference: one is making a general claim about AI's pace and kind, the other is making a narrow claim about this one domestic tool.",
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming the tool's own nature (whether it 'understands' or has any independent status) isn't the relevant question — what matters is documented efficacy and whether real oversight is attached to its use.",
+      laborAssumption: "You're likely assuming this is a policing-efficiency question separate from broader AI-driven labor disruption, and that a department's ability to use a tool efficiently doesn't require a position on economic effects elsewhere.",
+      connectionAssumption: "You're likely assuming the relevant relationship here is institutional — a police department's accountable use of a tool under oversight — not a personal or individual relationship with an AI system.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'normal-technology-gradualist',
+      profileName: 'Normal-Technology Gradualist',
+      distinction: "Both are comfortable with institutional, status-quo governance and skeptical of dramatic framing on either side. But Normal-Technology Gradualist makes a general claim that all of AI is an ordinary technology diffusing at an ordinary pace. Domestic Security-AI Efficiency Advocate takes no general position on AI's broader trajectory at all — it is specifically and only about domestic policing and security tools, argued on efficacy and oversight grounds particular to that context.",
+    },
+  },
+  'ghost-work-labor-advocate': {
+    profileId: 'ghost-work-labor-advocate',
+    extendedNarrative: [
+      "You believe AI's most visible ethical debates skip past the humans who actually build it. Behind every chatbot's safety filter sits a workforce of contract labelers and moderators, in Nairobi, in Caracas, in Damascus, reviewing the worst material the internet produces so a model somewhere else never has to. You point to Sama's Kenyan contractors, paid under $2/hour, who reviewed graphic descriptions of child sexual abuse, murder, and bestiality to train ChatGPT's toxicity classifier, work traumatic enough that Sama itself canceled the contract early.",
+      "You don't think this is a side story about outsourcing; you think it's the actual foundation the AI industry is built on, made invisible by design. Mary Gray and Siddharth Suri's term \"ghost work\" names the pattern precisely: labor essential to the product, structured to be unseen, uncredited, and legally arm's-length from the company that benefits from it. When Kenyan moderators tried to unionize against Meta's contractor Sama, you note, they were fired, and the case is now in front of Kenya's High Court, one of the only forums where this workforce has any recourse at all.",
+      "You want RLHF labeling and content moderation treated as real labor with real protections, consent, psychological support, fair pay, the right to organize, not treated as an invisible layer beneath the \"real\" AI story. When someone frames this as an ethics-of-fairness question, you push back: this isn't about whether the model is biased, it's about who got hurt building it, and whether that person had any power to say no.",
+    ],
+    shadowSide: "Naming this labor doesn't, by itself, give the affected workers any leverage — a Kenyan High Court case can take years, Sama can and did simply end the contract rather than fix conditions, and the next platform can restart the same arrangement in another country with weaker labor law. This stance is very good at making the harm visible and comparatively thin on a mechanism that reaches the worker before the trauma does, rather than after.",
+    thinkers: [
+      { name: 'Mary L. Gray & Siddharth Suri', bio: 'Co-authors, Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass (2019); Gray is a senior researcher at Microsoft Research, Suri an economist', connection: 'Coined "ghost work" to name exactly the invisible, on-demand labor structure this stance describes, arguing it constitutes a new, unprotected labor underclass rather than a temporary side effect of automation.' },
+      { name: 'Billy Perrigo', bio: 'Journalist, TIME', connection: 'His January 2023 investigative report on OpenAI\'s Kenyan Sama contractors is the concrete case this stance treats as paradigmatic: workers paid under $2/hour reviewing traumatic content to build ChatGPT\'s safety filter.' },
+      { name: 'Dr. Milagros Miceli / DAIR Institute', bio: 'Researcher; Distributed AI Research Institute', connection: "Her Data Workers' Inquiry ran participatory research with 15 co-researchers across Venezuela, Kenya, Syria, and Germany, documenting firsthand the conditions of annotation and moderation labor this stance centers." },
+    ],
+    furtherReading: [
+      { title: 'Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass', author: 'Mary L. Gray and Siddharth Suri', note: 'The 2019 book that coined "ghost work" and documented the invisible, on-demand labor structure underneath platform AI and the gig economy alike.' },
+      { title: 'OpenAI Used Kenyan Workers on Less Than $2 Per Hour: Exclusive', author: 'Billy Perrigo, TIME (Jan 18, 2023)', note: "Documents OpenAI/Sama contract workers labeling CSAM, murder, and bestiality content to build ChatGPT's toxicity filter; Sama canceled the contract early over trauma concerns." },
+    ],
+    nextSteps: [
+      "Read Foxglove Legal's ongoing coverage of the Kenyan moderators' case against Meta/Sama and track whether the unionization-retaliation claim survives trial.",
+      "Compare this stance against AI Ethics/Fairness Watchdog and notice the claim isn't about auditing the model's outputs, it's about the employment conditions of the humans producing its safety layer.",
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming the AI's outputs and the human suffering that trained it are inseparable facts about the same system, not two unrelated questions that can be evaluated independently.",
+      laborAssumption: "You're likely assuming the workers most essential to AI safety, labelers and moderators, are also the ones with the least bargaining power, structurally hidden from the public accountability that would normally apply to a company's workforce.",
+      connectionAssumption: "You're likely assuming that a company's relationship to its own safety-layer workforce, mediated through outsourced contractors and NDAs, is itself a moral relationship worth scrutinizing, not just a vendor arrangement.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'ai-ethics-fairness-watchdog',
+      profileName: 'AI Ethics/Fairness Watchdog',
+      distinction: "AI Ethics/Fairness Watchdog audits companies' fairness and bias claims broadly from the outside. Ghost-Work Labor Advocate is narrowly about the labor conditions of the specific humans who build AI's safety layer, trauma, pay, no bargaining power, a labor-rights claim, not a fairness-audit claim.",
+    },
+  },
+  'algorithmic-wage-discrimination-scholar': {
+    profileId: 'algorithmic-wage-discrimination-scholar',
+    extendedNarrative: [
+      "You believe the real fight over gig work and AI isn't about whether a human or an algorithm assigns the job, it's about the fact that the algorithm now sets your wage, differently, for the same work, in ways you can't see or predict. Veena Dubal's ethnographic research with rideshare drivers gave this pattern a name: algorithmic wage discrimination, a system that personalizes and varies pay per worker, per trip, using behavioral and location data the worker never consented to and can't audit.",
+      "You take seriously that drivers describe this, in their own words, as \"gambling\" and \"trickery,\" not a metaphor, but an accurate description of a pay structure engineered to be opaque and to shift under them, using each driver's own responsiveness to price signals against them. Your proposed fix isn't a union contract negotiating the old wage floor; it's a non-waivable legal ban on the practice itself, because the harm lives inside the pay-setting mechanism, not in any single bad outcome you could bargain away one contract at a time.",
+      "You're focused on independent contractors specifically, workers without recognized bargaining units, whose only leverage is regulatory or legislative, not organizational. That shapes what you consider a real remedy: not stronger organizing, which this workforce largely doesn't have access to, but a legal prohibition on the algorithmic wage practice.",
+    ],
+    shadowSide: "A legislative ban on a specific pay mechanism can be rewritten around the moment the law is drafted narrowly enough to name it, companies have already shown they can restructure incentive pay, bonuses, and \"quests\" faster than statutes can be updated to catch the new version. This stance is strong on diagnosing the harm precisely and weak on the durability of any single legal fix against a company with every incentive to route around it.",
+    thinkers: [
+      { name: 'Veena Dubal', bio: 'Law professor, UC Law San Francisco', connection: 'Coined "algorithmic wage discrimination" in her 2023 Columbia Law Review article, based on ethnographic interviews with rideshare drivers describing opaque, personalized algorithmic pay as "gambling" and "trickery"; her proposed remedy is a non-waivable statutory ban.' },
+      { name: 'Columbia Law Review', bio: 'Peer-reviewed legal scholarship journal, Columbia Law School', connection: 'Published Dubal\'s article "On Algorithmic Wage Discrimination" (123 Colum. L. Rev. 1929, 2023), the venue through which this legal-scholarship argument entered the mainstream regulatory conversation.' },
+    ],
+    furtherReading: [
+      { title: 'On Algorithmic Wage Discrimination', author: 'Veena Dubal', note: 'Columbia Law Review 123(7), 2023, pp. 1929-1992 — the founding article naming and documenting the practice, drawn from ethnographic interviews with rideshare drivers.' },
+      { title: 'On Algorithmic Wage Discrimination (SSRN preprint)', author: 'Veena Dubal', note: 'Earlier working-paper version of the Columbia Law Review article, useful for tracing how the argument developed before peer review.' },
+    ],
+    nextSteps: [
+      "Read Dubal's Columbia Law Review article directly, particularly the driver interviews describing pay as \"gambling,\" and compare that language against your own assumptions about gig-platform fairness.",
+      "Compare this stance against Creative-Labor/Artist Rights Advocate and notice the remedy each proposes: legislative ban on a pay mechanism versus consent-and-compensation for training data, two different theories of what \"protection\" means.",
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming the algorithm's wage-setting logic is itself a hidden, deliberate design choice, not a neutral optimization, and that studying its mechanics, not just its outputs, is the correct unit of analysis.",
+      laborAssumption: "You're likely assuming most gig workers affected by this have no realistic collective-bargaining unit at all, which is why you look to legislation rather than negotiation as the lever that can actually move.",
+      connectionAssumption: "You're likely assuming the worker's relationship to the platform is fundamentally asymmetric and surveillance-based, the platform sees and uses data about the worker that the worker can't see about the platform's own pay logic.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'creative-labor-artist-rights-advocate',
+      profileName: 'Creative-Labor/Artist Rights Advocate',
+      distinction: "Creative-Labor/Artist Rights Advocate is about consent over training-data inputs, did the AI train on my copyrighted work without permission. Algorithmic Wage-Discrimination Scholar is about algorithmic control over wages for gig workers whose labor an app already governs in real time, a pay-mechanism claim, not a training-data-consent claim.",
+    },
+  },
+  'ubi-redistributive-response-advocate': {
+    profileId: 'ubi-redistributive-response-advocate',
+    extendedNarrative: [
+      "You believe the fight to save or renegotiate jobs is, at this point, largely a losing rear-guard action, and that the better use of energy is making sure the economic gains from AI-driven automation get redistributed to the people it displaces, rather than trying to preserve the employment relationship itself. Andrew Yang's \"Freedom Dividend\" platform, and his more recent warning that \"the AI jobpocalypse is here,\" is the clearest version of this you point to: a direct, unconditional cash transfer funded by taxing the companies whose AI systems are doing the displacing.",
+      "You take seriously that Yang himself, per Fortune's Feb 2026 coverage, endorses Dario Amodei's proposal to tax AI companies specifically to fund UBI, and that Yang is explicit cash alone isn't sufficient, that displaced workers also need \"purpose and community,\" a harder problem than writing a check. Natalie Foster's broader case for guaranteed income backs the same shift in terrain: from negotiating over jobs to redistributing macro-level gains, as the more honest response to displacement that's already happening rather than displacement that might happen.",
+      "What separates you most sharply from a labor-bargaining response is what you assume about the underlying trend: you think the jobs mostly aren't coming back in a form worth fighting to preserve, so the fight should move to fiscal policy, taxation and transfer, rather than workplace power. That's a bet on the direction of the technology, not just a policy preference.",
+    ],
+    shadowSide: "Accepting displacement as effectively irreversible and redirecting all your energy to redistribution can become self-fulfilling, if enough political energy shifts from fighting for job preservation to designing the safety net underneath job loss, it removes exactly the organized pressure that might have shaped whether displacement happens as fast, or as completely, as you're assuming it will. You may be helping build the parachute before checking whether the plane actually had to go down.",
+    thinkers: [
+      { name: 'Andrew Yang', bio: 'Founder, Forward Party/Humanity Forward; 2020 presidential candidate', connection: "His \"Freedom Dividend\" platform is the original policy version of this stance, and his 2026 warning that \"the AI jobpocalypse is here,\" explicitly endorsing Dario Amodei's proposal to tax AI companies to fund UBI, is the direct citation grounding this archetype." },
+      { name: 'Natalie Foster', bio: "Co-founder, Economic Security Project; author, The Guarantee: Inside the Fight for America's Next Economy (2024)", connection: 'Her work makes the broader case for guaranteed income as the appropriate societal response to economic precarity, corroborating the shift from workplace bargaining to macro redistribution this stance is built on.' },
+    ],
+    furtherReading: [
+      { title: "Ex-presidential candidate Andrew Yang warns... 'The AI jobpocalypse is here'", author: 'Fortune (Feb 25, 2026)', note: "Reports Yang endorsing Dario Amodei's proposal to tax AI companies to fund UBI, and Yang's own caveat that cash alone is insufficient, displaced workers also need \"purpose and community.\"" },
+      { title: "Andrew Yang warns that the AI jobpocalypse is here and advocates for UBI", author: 'Basic Income Earth Network (March 2026)', note: 'Corroborating coverage of the same warning and policy endorsement, situating it within the broader basic-income advocacy movement.' },
+      { title: "The Guarantee: Inside the Fight for America's Next Economy", author: 'Natalie Foster (2024)', note: 'Economic Security Project case for guaranteed income as macro-level redistribution, corroborating the post-work framing this stance rests on.' },
+    ],
+    nextSteps: [
+      "Read the Fortune Feb 2026 piece on Yang's \"AI jobpocalypse\" warning in full, and note that even Yang says cash alone isn't sufficient, decide whether the \"purpose and community\" piece changes your view of what a real redistributive response requires.",
+      "Compare this stance against Labor Movement/Collective Bargaining Advocate and notice the evolutionary-axis reversal explicitly: this stance assumes real, wholesale replacement, not managed integration, while the bargaining stance assumes the job relationship is still worth renegotiating.",
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming AI's economic effect is best understood at the level of aggregate labor-market displacement, not by asking whether any given system has agency or an inner life of its own.",
+      laborAssumption: "You're likely assuming large-scale job displacement is close to inevitable and largely irreversible, which is why your remedy operates at the level of fiscal policy rather than the employment relationship.",
+      connectionAssumption: "You're likely assuming a person's economic security and sense of purpose can be substantially rebuilt through redistribution and community structures outside of a traditional job, not solely through paid employment.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'domestic-security-ai-efficiency-advocate',
+      profileName: 'Domestic Security-AI Efficiency Advocate',
+      distinction: "Both are relatively institutionalist and non-ideological about AI's nature, comfortable working through existing state mechanisms, tax policy versus police procedure, rather than reshaping AI itself. But Domestic Security-AI Efficiency Advocate assumes institutional continuity and incremental efficiency gains, while this archetype explicitly accepts wholesale economic replacement of human labor and redirects its energy entirely to redistributing the resulting gains, not to defending or improving any existing institutional process.",
+    },
+  },
+  'algorithmic-colonialism-critic': {
+    profileId: 'algorithmic-colonialism-critic',
+    extendedNarrative: [
+      "You believe that when Western tech companies bring \"AI solutions\" to Africa, they aren't offering neutral, universal tools — they're repeating a colonial pattern with a new pipeline. Abeba Birhane's term for this, \"algorithmic colonization,\" names it precisely: data gets extracted as raw material, largely without consent, and finished, foreign-built models come back in, imposed with none of the local scrutiny a genuinely accountable deployment would require.",
+      "Your target is corporate power specifically, not state power — the venture-funded labs and platform companies whose products land in African markets with an urgent \"AI for Africa\" pitch, mostly unaccountable to the people whose data trained them or whose lives the model's outputs now touch. You go further than most critics of Big Tech: you're skeptical of the \"AI progress\" narrative itself. Claiming that AI adoption is urgent, inevitable, or straightforwardly beneficial is, to you, part of the colonial story, not a neutral backdrop to it — progress is a specific, Western-coded claim about what counts as advancement, and repeating it uncritically is itself the problem you're naming.",
+      "This isn't a call for less technology, it's a call for a different starting point: who gets to define the categories a model operates in, whose knowledge counts as data worth taking, and whether the people a system is built to serve had any real say before it arrived.",
+    ],
+    shadowSide: "Treating all Western-built AI deployment in Africa as inherently colonial extraction risks flattening the real, active choices of African users, engineers, and institutions who adopt, adapt, or contest these tools on their own terms. Collapsing negotiated engagement into pure victimhood makes it harder, not easier, to tell a genuinely coercive imposition apart from a locally-driven decision to use a flawed tool anyway because it's still useful.",
+    thinkers: [
+      { name: 'Dr. Abeba Birhane', bio: 'Cognitive scientist; Mozilla Foundation Senior Fellow, adjunct at Trinity College Dublin, DAIR affiliate', connection: 'Her paper "Algorithmic Colonization of Africa" (SCRIPTed 17(2), 2020) coined the framework this stance is built on: Western AI deployment in Africa as a continuation of colonial extraction logic, targeting corporate rather than state power.' },
+      { name: 'Radical AI Podcast', bio: 'Podcast examining ethics, power, and justice in AI', connection: "Episode 11, \"Robot Rights? Exploring Algorithmic Colonization with Abeba Birhane,\" extended her written argument into public conversation, naming the specific corporate extraction dynamic this stance centers." },
+    ],
+    furtherReading: [
+      { title: 'Algorithmic Colonization of Africa', author: 'Abeba Birhane', note: 'The 2020 SCRIPTed academic paper making the core case: Western AI "solutions for Africa" replicate colonial extraction, treating data as raw material mined without consent.' },
+      { title: 'The Algorithmic Colonization of Africa', author: 'Abeba Birhane', note: 'A shorter, public-facing Real Life Magazine essay version of the same argument, aimed at a general audience rather than an academic one.' },
+    ],
+    nextSteps: [
+      'Read the SCRIPTed paper directly to see the specific case studies Birhane draws on, rather than the summary version.',
+      'Listen to Radical AI Podcast Episode 11 to hear this argument applied conversationally to specific deployments.',
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming that debates over whether AI is conscious are, at best, secondary to the more urgent question of whose data and labor built it and who profits from that extraction.",
+      laborAssumption: "You're likely assuming AI-driven economic effects in the Global South are best understood as a continuation of colonial-era resource extraction, not a neutral, universal story of technological progress.",
+      connectionAssumption: "You're likely assuming that questions about AI companionship are a distraction from the more structural fight over who owns the data pipelines and infrastructure in the first place.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'anti-monopoly-populist',
+      profileName: 'Anti-Monopoly Populist',
+      distinction: "Anti-Monopoly Populist is a domestic antitrust framing: break up concentrated corporate power generally, regardless of subject matter. Algorithmic Colonialism Critic is a decolonial, epistemic critique specifically about Global South data and knowledge extraction — the concern isn't concentration for its own sake, it's whose knowledge and categories get treated as universally valid, no matter how many companies compete to extract them.",
+    },
+  },
+  'african-language-ai-sovereignty-advocate': {
+    profileId: 'african-language-ai-sovereignty-advocate',
+    extendedNarrative: [
+      "You believe the invisibility of African languages inside mainstream AI isn't a footnote, it's an erasure with real and growing stakes. Over 2,000 languages spoken across the continent are structurally absent from the systems increasingly mediating translation, speech, and information access, and every year that gap goes unaddressed hardens further into a default: as far as most AI is concerned, these languages simply don't exist.",
+      "Your answer isn't a government program, an aid pipeline, or a traditional-knowledge consent protocol — it's Masakhane's model: a volunteer, cross-border, pan-African community of researchers, co-founded by Vukosi Marivate and Kathleen Siminyu, building open datasets and models for African-language translation and speech themselves, and releasing the results openly so no single well-resourced lab gets to decide which languages are worth serving.",
+      "Representation is the whole fight to you: a speaker of an underserved language should be able to find it inside a translation tool the same as any English or Mandarin speaker can, and the fix is concrete and already underway, built by the people who actually speak these languages, not a policy debate to be won first.",
+    ],
+    shadowSide: "A community-driven, volunteer open-source model is inspiring, but it doesn't solve the underlying resourcing problem: volunteer labor is unevenly sustainable across languages and contributors, a grassroots effort structurally can't match the training data and compute a well-funded Western lab can throw at a handful of profitable languages, and an openly-released dataset can still be scraped and repackaged by the same commercial actors this stance is trying to route around.",
+    thinkers: [
+      { name: 'Prof. Vukosi Marivate', bio: 'Computer scientist, University of Pretoria; co-founder, Masakhane Research Foundation', connection: 'He co-founded Masakhane, the pan-African grassroots NLP community, and co-authored its foundational 2020 paper and the 2022 "Towards Afrocentric NLP for African Languages" follow-up.' },
+      { name: 'Kathleen Siminyu', bio: 'NLP researcher; Board Chair, Masakhane Research Foundation', connection: 'As co-founder and Board Chair, her work has driven Masakhane\'s community-built approach to African-language translation and speech datasets, built "for Africans, by Africans."' },
+    ],
+    furtherReading: [
+      { title: 'Masakhane — Machine Translation for Africa', author: 'Masakhane community', note: 'The 2020 arXiv paper (2003.11529) establishing the community-built approach to African-language NLP this stance is grounded in.' },
+      { title: 'Towards Afrocentric NLP for African Languages', author: 'Masakhane community', note: 'The 2022 arXiv follow-up (2203.08351) extending the framework toward representation and against linguistic erasure specifically.' },
+    ],
+    nextSteps: [
+      'Look into masakhane.io and an active project for a specific African language to see community-built NLP in practice.',
+      'Read the Science Magazine feature on local scientists and volunteers "taking it back to school" for AI language work.',
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming that whether a model is conscious matters far less than whether it can even represent your language at all.",
+      laborAssumption: "You're likely assuming that meaningful economic opportunity from AI depends on a language being represented in the first place — a system that can't process a language can't serve the people who speak it.",
+      connectionAssumption: "You're likely assuming that AI companionship is a lower priority than the more basic question of whether AI can understand and produce your language at all.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'anti-monopoly-populist',
+      profileName: 'Anti-Monopoly Populist',
+      distinction: "Anti-Monopoly Populist wants concentrated ownership broken up generally, agnostic to subject matter. African-Language AI Sovereignty Advocate's project is specific and concrete: representation for African languages in NLP. The anti-concentration instinct here is really \"don't let a handful of well-resourced Western labs decide which languages get to exist in AI,\" not a general antitrust position — Platform-Cooperativist's ownership-restructuring angle is a close second, but this stance's fight is about which languages exist in AI at all, not who owns the infrastructure.",
+    },
+  },
+  'border-migration-surveillance-critic': {
+    profileId: 'border-migration-surveillance-critic',
+    extendedNarrative: [
+      "You center the people AI border technology is deployed against — stateless people, asylum seekers, migrants — rather than the states and companies deploying it. Biometric scanning at reception centers, automated risk-scoring of asylum claims, drones patrolling the US/Mexico and Kenya/Somalia borders, surveillance infrastructure ringing EU camps: to you these aren't edge cases of an otherwise promising technology, they're its actual, current, dominant use in this domain, and the people it's used on had no say in its design.",
+      "You reject the framing that caution about AI costs lives, at least as it's usually deployed. Petra Molnar's empirical work, gathered as a lawyer and anthropologist with the Refugee Law Lab at York University and laid out in The Walls Have Eyes, runs the argument in the opposite direction for a different population: unaccountable, fast-moving AI deployment against refugees and migrants is what's actually costing lives and due process right now, not a hypothetical harm to weigh against hypothetical benefit.",
+      "Your fight isn't for a population trying to build or control its own AI capacity — it's accountability for how AI already gets used against people with the least power on earth to contest it.",
+    ],
+    shadowSide: "Centering accountability for how AI gets deployed against migrants doesn't, by itself, specify what should replace biometric screening or automated risk-scoring at borders under real strain. Documenting harm isn't the same as proposing a workable alternative, and this critique can read as opposing any AI tool at the border without fully engaging the real processing backlogs and chronic understaffing that push states toward automation in the first place.",
+    thinkers: [
+      { name: 'Petra Molnar', bio: 'Lawyer and anthropologist; Associate Director, Refugee Law Lab, York University; Faculty Associate, Harvard Berkman Klein Center', connection: 'Her book The Walls Have Eyes (The New Press, 2024, Governor General\'s Literary Award finalist) documents biometric border tech, automated asylum risk-scoring, and drone surveillance at borders worldwide, grounding this stance in direct field research rather than theory.' },
+      { name: 'Refugee Law Lab, York University', bio: 'Interdisciplinary research lab studying refugee law, technology, and migrant justice', connection: "Molnar's institutional home; the Lab's published research on automated border and asylum decision-making is where this stance's empirical claims about AI harm to migrants come from." },
+    ],
+    furtherReading: [
+      { title: 'The Walls Have Eyes: Surviving Migration in the Age of Artificial Intelligence', author: 'Petra Molnar', note: 'The 2024 book (The New Press) documenting AI border and surveillance technology deployed against migrants and refugees across multiple continents.' },
+      { title: '"Tech Doesn\'t Just Stay at the Border": Petra Molnar on Surveillance\'s Long Reach', author: 'Texas Observer (interview with Petra Molnar)', note: "An interview extending the book's argument into current U.S. border policy specifically." },
+    ],
+    nextSteps: [
+      'Read The Walls Have Eyes, focusing on a specific documented case of automated risk-scoring or biometric deployment.',
+      'Look into the Coda Story reporting on how the EU AI Act treats (or exempts) border surveillance technology.',
+    ],
+    reflectiveBreakdown: {
+      mindAssumption: "You're likely assuming that whether an automated system is conscious matters far less than the very real, very present harm it causes when used to sort, flag, or detain a human being at a border.",
+      laborAssumption: "You're likely assuming that AI's economic disruption is a secondary concern next to the more immediate question of due process and survival for people already at the sharpest edge of state power.",
+      connectionAssumption: "You're likely assuming that AI companionship is a distant concern next to a system that treats the people it's deployed against as risk scores to be sorted, not potential relationship partners.",
+    },
+    commonlyConfusedWith: {
+      profileId: 'ai-global-development-optimist',
+      profileName: 'AI-for-Global-Development Optimist',
+      distinction: "AI-for-Global-Development Optimist argues that caution about deploying AI quickly costs real lives in health care and education contexts. Border/Migration Surveillance Critic's empirical claim runs the opposite direction for a different population: unaccountable, fast AI deployment specifically against refugees and migrants — biometric surveillance, automated risk-scoring — is itself the thing costing lives and due process.",
+    },
+  },
 }

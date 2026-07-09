@@ -3,10 +3,10 @@ import { profiles } from './profiles'
 import { axes } from './axes'
 
 describe('profiles', () => {
-  it('has exactly 41 profiles with unique ids and names', () => {
-    expect(profiles).toHaveLength(41)
-    expect(new Set(profiles.map((p) => p.id)).size).toBe(41)
-    expect(new Set(profiles.map((p) => p.name)).size).toBe(41)
+  it('has exactly 50 profiles with unique ids and names', () => {
+    expect(profiles).toHaveLength(50)
+    expect(new Set(profiles.map((p) => p.id)).size).toBe(50)
+    expect(new Set(profiles.map((p) => p.name)).size).toBe(50)
   })
 
   it('defines a coordinate for every axis, within -10..10', () => {
@@ -117,5 +117,23 @@ describe('balance-audit archetype (surfaced via classification win-rate calibrat
   it('includes Normal-Technology Gradualist', () => {
     const ids = profiles.map((p) => p.id)
     expect(ids).toContain('normal-technology-gradualist')
+  })
+})
+
+describe('cluster-balance research push (grows state-power-security, material-labor-stakes, sovereignty-marginalized-voice to 6 each, added 2026-07-08)', () => {
+  it('includes all 9 new cluster-balance archetypes', () => {
+    const ids = profiles.map((p) => p.id)
+    const expectedNewIds = [
+      'chip-sovereignty-enforcement-strategist',
+      'ai-arms-control-verification-specialist',
+      'domestic-security-ai-efficiency-advocate',
+      'ghost-work-labor-advocate',
+      'algorithmic-wage-discrimination-scholar',
+      'ubi-redistributive-response-advocate',
+      'algorithmic-colonialism-critic',
+      'african-language-ai-sovereignty-advocate',
+      'border-migration-surveillance-critic',
+    ]
+    expectedNewIds.forEach((id) => expect(ids).toContain(id))
   })
 })

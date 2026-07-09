@@ -2,7 +2,7 @@
 name: council-authoritarian-state-control-advocate
 description: "Council member. Use standalone for one licensed authority, sole control, or via /council for multi-perspective deliberation."
 model: sonnet
-color: black
+color: obsidian
 tools: ["Read", "Grep", "Glob", "Bash", "WebSearch", "WebFetch"]
 council:
   figure: Authoritarian State-Control Advocate

@@ -92,8 +92,24 @@ describe('profileReports (batch 12: balance-audit archetype, added 2026-07-08)',
   })
 })
 
+describe('profileReports (batch 13: cluster-balance research push, added 2026-07-08)', () => {
+  it('has complete entries for all 9 new cluster-balance archetypes', () => {
+    [
+      'chip-sovereignty-enforcement-strategist',
+      'ai-arms-control-verification-specialist',
+      'domestic-security-ai-efficiency-advocate',
+      'ghost-work-labor-advocate',
+      'algorithmic-wage-discrimination-scholar',
+      'ubi-redistributive-response-advocate',
+      'algorithmic-colonialism-critic',
+      'african-language-ai-sovereignty-advocate',
+      'border-migration-surveillance-critic',
+    ].forEach(checkShape)
+  })
+})
+
 describe('profileReports completeness', () => {
-  it('has exactly one entry per profile, for all 41 profiles, with no orphans', () => {
+  it('has exactly one entry per profile, for all 50 profiles, with no orphans', () => {
     const profileIds = profiles.map((p) => p.id)
     const reportIds = Object.keys(profileReports)
     expect(reportIds.sort()).toEqual(profileIds.sort())

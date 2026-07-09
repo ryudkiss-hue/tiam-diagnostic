@@ -38,6 +38,8 @@ describe('PinnacleReflection', () => {
       'Authoritarian State-Control Advocate', 'Affective Biocentrist', 'Open Science Internationalist',
       'Anti-Monopoly Populist', 'Indigenous Data Sovereignty Advocate',
       'AI-for-Global-Development Optimist', 'AI Ethics/Fairness Watchdog',
+      'AI Arms-Control Verification Specialist', 'Algorithmic Wage-Discrimination Scholar',
+      'Algorithmic Colonialism Critic', 'African-Language AI Sovereignty Advocate',
     ]
     profiles.forEach((p) => {
       render(<PinnacleReflection archetypeName={p.name} />)
