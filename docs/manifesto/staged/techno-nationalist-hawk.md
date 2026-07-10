@@ -160,3 +160,138 @@ A third tension is game-theoretic and cuts against our own Section 1 formalizati
 The formal justification for the proxy strategy is straightforward. A rival's frontier capability $K$ is, by the empirical scaling relationships the field itself has documented, a monotonically increasing function of training compute: $K = f(C_{train})$, with $f' > 0$. Training compute is in turn bounded above by the physical stock of accelerators and the energy available to run them: $C_{train} \leq g(N_{chips}, P_{energy})$. Both $N_{chips}$ (trackable through export licensing, customs data, and fab output) and $P_{energy}$ (observable through satellite thermal imaging and grid data) are measurable by national technical means without the rival's cooperation. The chain $K \leq f(g(N_{chips}, P_{energy}))$ therefore gives us a *verifiable upper bound* on an unverifiable quantity — and for deterrence planning, an upper bound is exactly what is needed, because prudent strategy sizes itself against the rival's maximum feasible capability, not their declared one. This is the same epistemic move Cold War planners made when they sized deterrence against Soviet missile *production capacity* rather than trusting declarations of deployed inventory, and it worked for forty years.
 
 **The Escalation Spiral Critique:** Allison's own Thucydides framework — which we adopted in Section 1 — is turned against us by critics who observe that in twelve of his sixteen war cases, it was precisely the mutual pursuit of security through relative advantage that produced the catastrophic outcome, meaning our strategy of supremacy-seeking is, on the historical record we ourselves cite, more often the trap's mechanism than its escape. We take this critique seriously because it is internal to our own framework rather than imported from a rival worldview. Our answer is that Allison's four peaceful cases share an identifiable structural feature: in each, the transition was managed either because one side achieved a preponderance so clear that contesting it became irrational (the U.S.-U.K. transition circa 1900), or because robust crisis-communication and verification mechanisms kept worst-case planning in check (the late Cold War). Both peaceful pathways run *through* capability and detection, not around them. The U.S.-U.K. case in particular is our model: Britain conceded peacefully to a rising America not out of idealism but because the capability gap became undeniable and the two powers' institutions were transparent enough to each other that miscalculation was unlikely. Our program — supremacy plus verifiable input-tracking plus allied integration — is engineered to reproduce exactly those conditions, and we regard the genuinely dangerous policy as the middle path our moderate critics prefer: enough competition to trigger the rival's worst-case planning, without enough advantage or transparency to stabilize the outcome.
+
+## 7. Formal Syllogistic Architecture
+
+We ground our strategy in three formal syllogisms, establishing our core strategic deductions:
+
+### Syllogism I: The Realist Imperative of Preponderance
+- **Major Premise:** Under anarchy, states must maximize relative capability to survive (Mearsheimer, 2001; Waltz, 1979).
+- **Minor Premise:** AGI and compute capacity constitute the decisive technological substrate of relative capability.
+- **Conclusion:** Therefore, to survive, states must optimize for relative AI supremacy and compute preponderance.
+
+### Syllogism II: The Instability of Unverified Treaties
+- **Major Premise:** Prisoner's Dilemma cooperation requires rapid, reliable detection of defection (Axelrod, 1984; Keohane, 1984).
+- **Minor Premise:** Digital assets like weights and training runs cannot be verified from a distance (Krasner, 1999).
+- **Conclusion:** Therefore, treaties mandating software-level constraints are structurally unstable and represent a strategic hazard.
+
+### Syllogism III: The Supply-Chain Chokepoint Vulnerability
+- **Major Premise:** Dependency on foreign entities for physical inputs of critical infrastructure creates strategic vulnerability (Hamilton, 1791; Allison, 2017).
+- **Minor Premise:** The hardware stack for frontier AI is geographically concentrated in regions subject to interdiction.
+- **Conclusion:** Therefore, national security dictates that the state execute targeted supply-chain repatriation.
+
+## 8. Game-Theoretic Analysis
+
+We formalize strategic choices facing great powers under anarchy in two models: the **AI Strategic Race (Prisoner's Dilemma)** and the **Alignment Coordination Challenge (Stag Hunt)**.
+
+### Model I: The AI Strategic Race (Prisoner's Dilemma)
+Players $U$ (U.S.) and $C$ (China) choose **Race** or **Restrain**. Payoffs: $4$ (Supremacy), $3$ (Mutual Stability), $2$ (Armed Standoff), $1$ (Subordination).
+
+```
+                                     CHINA (C)
+                            Restrain             Race
+                       +-------------------+-------------------+
+    Restrain           |       3 , 3       |       1 , 4       |
+U.S. (U)               +-------------------+-------------------+
+    Race               |       4 , 1       |       2 , 2       |
+                       +-------------------+-------------------+
+```
+
+**Race** strictly dominates **Restrain** since $U_i(\text{Race}, s_j) > U_i(\text{Restrain}, s_j) \ \forall s_j$ ($4 > 3$ and $2 > 1$). The unique Nash equilibrium is $(\text{Race}, \text{Race})$, yielding $(2,2)$. Negotiated restraint is unstable without physical verification.
+
+### Model II: The Alignment Coordination Challenge (Stag Hunt)
+If players must cooperate to solve global alignment (Stag) or defect to secure unilateral advantage (Rabbit), the game is a Stag Hunt (Jervis, 1978; Schelling, 1960):
+
+```
+                                     CHINA (C)
+                            Cooperate            Defect
+                       +-------------------+-------------------+
+    Cooperate          |       5 , 5       |       0 , 4       |
+U.S. (U)               +-------------------+-------------------+
+    Defect             |       4 , 0       |       2 , 2       |
+                       +-------------------+-------------------+
+```
+
+This game has two Nash equilibria: payoff-dominant $(\text{Cooperate}, \text{Cooperate})$ and risk-dominant $(\text{Defect}, \text{Defect})$. Under anarchy, because the penalty for being suckered ($0$) is strategic annihilation, both players default to $(\text{Defect}, \text{Defect})$.
+
+## 9. Mathematical Formalizations
+
+We present three mathematical formalizations of techno-nationalist logic.
+
+### Model I: The Compute-Scale AI Production Function
+We model strategic AI capability $K_i$ of state $i$ using a Cobb-Douglas production function reflecting physical constraints (Kaplan et al., 2020; Hoffmann et al., 2022):
+$$K_i(t) = A_i(t) \cdot \left[ N_i(t) \right]^\alpha \cdot \left[ E_i(t) \right]^\beta \cdot \left[ D_i(t) \right]^\gamma$$
+Subject to $\alpha + \beta + \gamma = 1$ and $\alpha, \beta, \gamma > 0$, where $A_i(t)$ is algorithmic efficiency, $N_i(t)$ is advanced accelerator stock, $E_i(t)$ is energy capacity (MW), and $D_i(t)$ is sovereign data volume. If hardware fabrication access collapses ($N_i \to 0$), capability $K_i$ falls exponentially.
+
+### Model II: The Strategic Deterrence Utility Model
+State $i$ chooses investment level $K_i$ to maximize utility $U_i$ relative to competitor $j$:
+$$U_i(K_i, K_j) = w_1 \cdot \ln\left[ S(K_i - K_j) \right] + w_2 \cdot Y_i(K_i) - C_i(K_i)$$
+Where security $S(\Delta)$ is a logistic function of the capability gap $\Delta = K_i - K_j$:
+$$S(\Delta) = \frac{1}{1 + e^{-\theta \Delta}}$$
+Here, $\theta > 0$ represents military decisiveness, $Y_i$ is economic output, and $C_i(K_i) = \frac{1}{2} c_i K_i^2$ is scaling cost. Maximizing $U_i$ yields the reaction function:
+$$w_1 \theta (1 - S(\Delta)) + w_2 Y'_i(K_i) = c_i K_i$$
+As $K_j$ increases, $S(\Delta)$ drops, forcing State $i$ to scale $K_i$ to maintain equilibrium.
+
+### Model III: Physical Verification Probability Model
+The probability $P_{\text{detect}}$ of detecting an adversary's covert training run $C_{\text{run}}$ using physical proxies is:
+$$P_{\text{detect}}(C_{\text{run}}) = 1 - \exp\left( - \lambda \cdot C_{\text{run}} \cdot \left[ \phi_{\text{chip}} \cdot \ln(N_{\text{leak}}) + \phi_{\text{grid}} \cdot \left( \frac{E_{\text{run}}}{E_{\text{base}}} \right) \right] \right)$$
+Where $\lambda$ is a detection constant, $N_{\text{leak}}$ is smuggled chips, $\phi_{\text{chip}}$ and $\phi_{\text{grid}}$ are monitoring efficiencies, $E_{\text{run}}$ is energy draw, and $E_{\text{base}}$ is background noise. As $C_{\text{run}}$ scales, $P_{\text{detect}} \to 1.0$, validating input-proxy verification.
+
+## 10. Empirical Data Charts
+
+We summarize the empirical foundations of our strategy in three ASCII charts.
+
+### Chart I: Global Advanced Node Fabrication Capacity Share (Projected 2020–2030)
+```
+Region       Year   Capacity Share (%)
+--------------------------------------------------------------------------------
+East Asia    2020   [=================================================] 85%
+(TW, KR, JP) 2025   [===========================================] 72%
+             2030   [==================================] 55%
+
+United States2020   [====] 8%
+             2025   [=========] 15%
+             2030   [====================] 30%
+
+Europe       2020   [===] 5%
+             2025   [=====] 9%
+             2030   [========] 12%
+
+Rest of World2020   [=] 2%
+             2025   [==] 4%
+             2030   [=] 3%
+--------------------------------------------------------------------------------
+```
+
+### Chart II: Training Compute scaling vs. Strategic Parity
+```
+FLOPs
+1e28 |                                                    / [Projected Race]
+     |                                                   / (U.S. Lead)
+1e26 |                                                  *
+     |                                                 / \  <- Parity Danger Zone
+1e24 |                                               /    * (Adversary Catch-up)
+     |                                             /
+1e22 |                                           /
+     |                                         *
+1e20 |                                       /
+     +--------------------------------------------------------------------------
+      1980        1990        2000        2010        2020        2030   Year
+```
+
+### Chart III: Supply Chain Vulnerability Matrix
+```
+Supply Chain Layer      Concentration Risk   Adversarial Proximity   Substitutability
+-------------------------------------------------------------------------------------
+1. Lithography (EUV)    HIGH (ASML monopoly) LOW (Netherlands)       NEGLIGIBLE
+2. Fabrication (Fabs)   HIGH (TSMC dominance)HIGH (Taiwan Strait)    LOW
+3. Advanced Packaging   HIGH (ASE, TSMC)     HIGH (East Asia)        MEDIUM
+4. HBM Memory Modules   MEDIUM (SK Hynix)    MEDIUM (South Korea)    LOW
+-------------------------------------------------------------------------------------
+```
+
+## 11. Conclusion
+
+We do not have the luxury of constructing policy for an idealized world. The arrival of transformative artificial intelligence occurs within a persistent framework of international anarchy and great-power competition. To ignore this reality is to invite strategic subordination and threaten the survival of liberal democratic institutions. We hold that technological supremacy is the only reliable guarantor of security in a zero-sum geopolitical landscape. 
+
+We assert that the path forward requires a clear-eyed rejection of unverifiable pause treaties, domestic laissez-faire drift, and open-source weight dissemination. Instead, we demand a mobilization of national power: cultivating designated National AI Champions, deploying domestic compute reserves, executing targeted supply-chain repatriation, and coordinating allied export controls. We recognize the tensions in our approach — infrastructure strains, complex allied dependencies, and talent management friction. Yet, we accept these as necessary costs of defense. By focusing verification on physical, observable inputs rather than software metrics, and by maintaining a decisive lead in compute capacity, we establish a stable deterrent. We choose to lead, secure our borders, and win.
