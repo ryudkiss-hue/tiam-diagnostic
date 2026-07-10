@@ -1,5 +1,3 @@
-const ttsCache = new Map<string, string>()
-
 export interface TTSSettings {
   apiKey: string
   voiceId: string
@@ -15,6 +13,9 @@ export const DEFAULT_TTS_SETTINGS: TTSSettings = {
   similarityBoost: 0.75,
   enabled: false,
 }
+
+const CACHE_NAME = 'elevenlabs-tts-cache-v1'
+const ttsCache = new Map<string, string>()
 
 export function getStoredTTSSettings(): TTSSettings {
   try {
@@ -43,13 +44,44 @@ export function saveStoredTTSSettings(settings: TTSSettings) {
   localStorage.setItem('elevenlabs_settings', JSON.stringify(settings))
 }
 
+export async function clearPersistentTTSCache(): Promise<boolean> {
+  ttsCache.clear()
+  if (typeof caches !== 'undefined') {
+    try {
+      return await caches.delete(CACHE_NAME)
+    } catch (e) {
+      console.error('Failed to delete persistent TTS cache', e)
+    }
+  }
+  return false
+}
+
 export async function fetchElevenLabsTTS(
   text: string,
   settings: TTSSettings
 ): Promise<string> {
-  const cacheKey = `${settings.voiceId}:${text}`
+  const cacheKey = `${settings.voiceId}:${settings.stability}:${settings.similarityBoost}:${text}`
+  
+  // 1. Check in-memory cache first
   if (ttsCache.has(cacheKey)) {
     return ttsCache.get(cacheKey)!
+  }
+
+  // 2. Check browser persistent Cache Storage (if available)
+  if (typeof caches !== 'undefined') {
+    try {
+      const cache = await caches.open(CACHE_NAME)
+      const fakeUrl = `https://tts.local/${encodeURIComponent(cacheKey)}`
+      const cachedResponse = await cache.match(fakeUrl)
+      if (cachedResponse) {
+        const blob = await cachedResponse.blob()
+        const audioUrl = URL.createObjectURL(blob)
+        ttsCache.set(cacheKey, audioUrl)
+        return audioUrl
+      }
+    } catch (e) {
+      console.warn('Persistent cache match failed, falling back to network', e)
+    }
   }
 
   const apiKey = settings.apiKey.trim()
@@ -92,7 +124,29 @@ export async function fetchElevenLabsTTS(
 
   const blob = await response.blob()
   const audioUrl = URL.createObjectURL(blob)
+  
+  // Save in-memory cache
   ttsCache.set(cacheKey, audioUrl)
+
+  // Save to persistent Cache Storage (if available)
+  if (typeof caches !== 'undefined') {
+    try {
+      const cache = await caches.open(CACHE_NAME)
+      const fakeUrl = `https://tts.local/${encodeURIComponent(cacheKey)}`
+      await cache.put(
+        fakeUrl,
+        new Response(blob, {
+          headers: {
+            'Content-Type': 'audio/mpeg',
+            'Content-Length': blob.size.toString(),
+          },
+        })
+      )
+    } catch (e) {
+      console.warn('Failed to store audio in persistent Cache Storage', e)
+    }
+  }
+
   return audioUrl
 }
 
@@ -142,4 +196,3 @@ export function playGlobalAudio(audioUrl: string, onStop: () => void, onEnded: (
     }
   })
 }
-

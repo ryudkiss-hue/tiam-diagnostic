@@ -5,6 +5,7 @@ import { questions, questionsForAxis } from '../data/questions'
 import { useQuiz } from '../state/QuizContext'
 import { ProgressBar } from '../components/ProgressBar'
 import { AxisHorizonGroup } from '../components/AxisHorizonGroup'
+import { clearPersistentTTSCache } from '../lib/tts'
 
 export function AxisPage() {
   const { axisIndex } = useParams<{ axisIndex: string }>()
@@ -153,13 +154,25 @@ export function AxisPage() {
               />
             </div>
           </div>
-          <p className="text-xs text-gray-500 leading-normal">
-            To use this feature, add your personal API Key from{' '}
-            <a href="https://elevenlabs.io" target="_blank" rel="noreferrer" className="text-blue-600 underline">
-              elevenlabs.io
-            </a>
-            . The default Voice ID is set to <strong>Glinda</strong> (a sweet, light female American voice).
-          </p>
+          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 border-t border-gray-200 pt-3">
+            <p className="text-xs text-gray-500 leading-normal flex-1">
+              To use this feature, add your personal API Key from{' '}
+              <a href="https://elevenlabs.io" target="_blank" rel="noreferrer" className="text-blue-600 underline">
+                elevenlabs.io
+              </a>
+              . The default Voice ID is set to <strong>Charlotte</strong> (a warm, sweet, light American voice).
+            </p>
+            <button
+              type="button"
+              onClick={async () => {
+                await clearPersistentTTSCache()
+                alert('All cached speech files cleared!')
+              }}
+              className="text-xs text-red-600 hover:text-red-800 underline font-semibold focus:outline-none whitespace-nowrap self-start sm:self-center"
+            >
+              Clear Local Audio Cache
+            </button>
+          </div>
         </div>
       )}
 

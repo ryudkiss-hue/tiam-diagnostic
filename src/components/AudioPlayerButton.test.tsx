@@ -9,10 +9,13 @@ describe('AudioPlayerButton', () => {
     vi.spyOn(console, 'error').mockImplementation(() => {})
     // Reset stored settings in localStorage
     localStorage.clear()
+    // Mock empty API key to ensure test is not affected by local .env files
+    vi.stubEnv('VITE_ELEVENLABS_API_KEY', '')
   })
 
   afterEach(() => {
     vi.restoreAllMocks()
+    vi.unstubAllEnvs()
   })
 
   it('renders the speaker button by default', () => {
