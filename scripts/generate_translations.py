@@ -318,13 +318,13 @@ def main():
         strings_to_translate.append(p["name"])
         strings_to_translate.append(p["summary"])
         
-    # Top 50 languages on Earth (by native + second language speakers)
+    # Top 20 languages initially (covers ~90% of world population)
+    # Can expand to 50+ languages after infrastructure validated
+    # ALL_50_LANGUAGES = es, hi, ar, pt, bn, ru, ja, pa, mr, de, fr, ur, ko, tr, vi, it, fa, th, pl, my, ta, te, gu, uk, kk, id, nl, he, sv, cs, ro, fil, no, kan, hu, ms, fi, som, sw, sk, da, bg, af, am, ckb, ha, yo, or, rw, ny
     languages = [
-        "es", "hi", "ar", "pt", "bn", "ru", "ja", "pa", "mr", "de",  # 10
-        "fr", "ur", "ko", "tr", "vi", "it", "fa", "th", "pl", "my",  # 20
-        "ta", "te", "gu", "uk", "kk", "id", "nl", "he", "sv", "cs",  # 30
-        "ro", "fil", "no", "kan", "hu", "ms", "fi", "som", "sw", "sk",  # 40
-        "da", "bg", "af", "am", "ckb", "ha", "yo", "or", "rw", "ny"  # 50
+        "es", "hi", "ar", "pt", "bn", "ru", "ja", "de",  # Top 8
+        "fr", "ko", "tr", "vi", "it", "pl", "id", "nl",  # 16
+        "he", "sv", "cs", "ro"  # Top 20
     ]
     translations = {}
     
