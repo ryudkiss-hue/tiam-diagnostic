@@ -121,14 +121,24 @@ export const Assessment: React.FC = () => {
     const experiment = ALL_EXPERIMENTS[state.currentExperimentKey as keyof typeof ALL_EXPERIMENTS];
     if (!experiment) return <div>Error: Experiment not found</div>;
 
+    const rawQuestion = experiment.questions[0];
+    const mainQuestion = {
+      question: rawQuestion.q,
+      subtext: rawQuestion.subtext,
+    };
+    const followUpQuestions = (rawQuestion.followups || []).map(f => ({
+      question: f,
+      subtext: '',
+    }));
+
     return (
       <NarrativeExperimentDisplay
         experimentKey={state.currentExperimentKey}
         title={experiment.title}
         narrative={experiment.intro}
         clash={experiment.clash}
-        mainQuestion={experiment.questions[0]}
-        followUpQuestions={experiment.questions[0].followups || []}
+        mainQuestion={mainQuestion}
+        followUpQuestions={followUpQuestions}
         onRespond={handleExperimentResponse}
       />
     );
@@ -273,8 +283,8 @@ export const Assessment: React.FC = () => {
   // Show synthesis results before completion code
   if (state.currentQuestionNumber === getTotalQuestions()) {
     const predictedArchetypes = [
-      { archetype: 'Pragmatic Centrist', confidence: 0.72 },
-      { archetype: 'Digital Rights Advocate', confidence: 0.65 },
+      { archetype: 'Pragmatic Centrist', description: 'Balances innovation with caution', alignment: 72 },
+      { archetype: 'Digital Rights Advocate', description: 'Prioritizes individual autonomy and privacy', alignment: 65 },
     ];
 
     return (
