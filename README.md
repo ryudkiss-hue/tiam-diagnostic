@@ -203,12 +203,21 @@ src/
 
 All content is pre-translated and permanently cached via Google Translate. **Zero runtime API calls** — translations are served statically from `src/data/translations.ts`.
 
-### Supported Languages
+### Currently Supported Languages
 - **English** (en) — baseline
 - **Spanish** (es)
 - **Chinese** (zh-CN)
 - **French** (fr)
 - **German** (de)
+
+**Total: 5 languages, 436 KB pre-cached (4,635 lines)**
+
+### Infrastructure Ready For 50+ Languages
+
+The system is designed to scale to 50+ languages with no code changes. Infrastructure supports:
+
+- **Top 20 most-spoken languages:** Spanish, Hindi, Arabic, Portuguese, Bengali, Russian, Japanese, German, French, Korean, Turkish, Vietnamese, Italian, Polish, Indonesian, Dutch, Hebrew, Swedish, Czech, Romanian
+- **Tier 2 (21-50):** Tamil, Telugu, Gujarati, Ukrainian, Kazakh, Filipino, Norwegian, Kannada, Hungarian, Malay, Finnish, Somali, Swahili, Slovak, Danish, Bulgarian, Afrikaans, Amharic, Kurdish, Hausa, Yoruba, Odia, Kinyarwanda, Chichewa
 
 ### What's Translated
 ✅ 145 assessment questions (standard + simplified)  
@@ -216,23 +225,48 @@ All content is pre-translated and permanently cached via Google Translate. **Zer
 ✅ 8 axes with pole labels  
 ✅ 50 archetype profiles  
 ✅ 68 UI strings  
-**Total: 436 KB of pre-cached translations (4,635 lines)**
 
-### Regenerating Translations
+### Adding More Languages
 
-To refresh translations after updating content:
+To expand to 20, 50, or custom language sets:
+
+1. **Edit language list** in `scripts/generate_translations.py`:
+   ```python
+   languages = ["es", "hi", "ar", "pt", "bn", "ru", "ja", ...]  # Add desired languages
+   ```
+
+2. **Run translation script** (one-time, ~2-5 min per 10 languages):
+   ```bash
+   python scripts/generate_translations.py
+   ```
+
+3. **LanguageSelector component auto-updates** — no code changes needed.
+
+4. **Commit to version control**:
+   ```bash
+   git add src/data/translations.ts scripts/generate_translations.py
+   git commit -m "feat: add [language] translations"
+   ```
+
+### Dependencies
 
 ```bash
-python scripts/generate_translations.py
+pip install deep-translator
 ```
 
-This script:
-1. Extracts all content from source files
-2. Translates via Google Translate (batched to ~4000 char chunks)
-3. Writes permanent cache to `src/data/translations.ts`
-4. Handles individual fallback if batch translation fails
+### Known Considerations
 
-Dependencies: `pip install deep-translator`
+- **API Rate Limiting:** Google Translate (via deep-translator) may throttle requests when translating 50+ languages. Solution: Translate in batches of 10-15 languages.
+- **Batch Size:** Script auto-batches to ~4000 characters per request. Fallback to individual item translation if batch fails.
+- **Translation Time:** Current 5-language set takes ~60 seconds. Estimated time: 2-3 seconds per language per 500 strings.
+- **Cache Invalidation:** Regenerate entire translations.ts after updating any source content (questions, UI strings, profiles, etc.)
+
+### Translation Quality
+
+Translations are generated via Google Translate API. For production use with 50+ languages, consider:
+- Human review of critical UI copy and axis pole labels
+- Community translations via platforms like Crowdin
+- A/B testing key workflows with native speakers
 
 ---
 

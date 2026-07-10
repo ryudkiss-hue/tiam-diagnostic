@@ -217,6 +217,7 @@ def translate_list(texts, target_lang):
     # Map language codes to deep-translator supported codes
     lang_map = {
         "zh": "zh-CN",
+        "he": "iw",   # Hebrew
         "fil": "tl",  # Filipino -> Tagalog
         "kan": "kn",  # Kannada
         "mr": "mr",   # Marathi
