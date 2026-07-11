@@ -18,6 +18,7 @@ const DEFAULT_LANGUAGES = {
   ko: '한국어',
   ar: 'العربية',
   ru: 'Русский',
+  // el: 'Ελληνικά', // Ready to enable once Greek translations are generated
 };
 
 export const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({

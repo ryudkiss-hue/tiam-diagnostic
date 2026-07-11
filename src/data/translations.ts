@@ -10,6 +10,7 @@ export interface LanguageTranslation {
 }
 
 export type SupportedLanguage = 'en' | 'es' | 'hi' | 'ar' | 'pt' | 'bn' | 'ru' | 'ja' | 'de' | 'fr' | 'ko' | 'tr' | 'vi' | 'it' | 'pl' | 'id' | 'nl' | 'he' | 'sv' | 'cs' | 'ro'
+// Note: Greek (el) is configured in .env.local and language hooks, ready for translations to be generated via scripts/translate_all_questions.py
 
 export const translations: Record<SupportedLanguage, LanguageTranslation> = {
   "en": {
