@@ -9,13 +9,16 @@ export interface LanguageTranslation {
   profiles: Record<string, { name: string; summary: string }>
 }
 
-// Tier 1: Languages with full translations (21 languages below)
+// Tier 1: Languages with full translations (21 languages)
 export type SupportedLanguage = 'en' | 'es' | 'hi' | 'ar' | 'pt' | 'bn' | 'ru' | 'ja' | 'de' | 'fr' | 'ko' | 'tr' | 'vi' | 'it' | 'pl' | 'id' | 'nl' | 'he' | 'sv' | 'cs' | 'ro'
 
-// Tier 2: Languages configured in infrastructure, awaiting translation generation (15 languages):
-// zh (Chinese), el (Greek), uk (Ukrainian), jbo (Lojban), tokipona (toki pona)
-// da (Danish), nb (Norwegian), la (Latin), tl (Tagalog), enm (Middle English)
-// ang (Old English), eo (Esperanto), pie (Proto-Indo-European), laa (Laadan), ixk (Ithkuil)
+// Tier 2: Constructed languages with partial manual translations (5 languages):
+// jbo (Lojban), tokipona (toki pona), laa (Laadan), pie (Proto-Indo-European), ixk (Ithkuil)
+// Note: 5-10 questions manually translated per language, rest are placeholders
+
+// Tier 3: Languages configured in infrastructure, awaiting translation generation (10 languages):
+// zh (Chinese), el (Greek), uk (Ukrainian), da (Danish), nb (Norwegian)
+// la (Latin), tl (Tagalog), enm (Middle English), ang (Old English), eo (Esperanto)
 //
 // Configuration:
 // - .env.local: VITE_TRANSLATION_LANGUAGES includes all 25 languages
