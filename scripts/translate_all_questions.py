@@ -85,31 +85,47 @@ if not LANGUAGES:
     }
 
 def extract_questions() -> List[Dict]:
-    """Extract all 171 questions from assessmentQuestions.ts"""
+    """Extract all 170 questions from assessmentQuestions.ts using line-by-line parsing"""
     with open(INPUT_FILE, 'r', encoding='utf-8') as f:
-        content = f.read()
+        lines = f.readlines()
 
     questions = []
-    # Match question objects: { id: 'qXX', axis: '...', text: '...', ... }
-    pattern = r"\{\s*id:\s*'(q\d+)',\s*axis:\s*'([^']*)',\s*text:\s*'([^']*)'\s*(?:,|(?:\s*,\s*subtext\s*:\s*'([^']*)')?)"
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        # Look for question id
+        if "id: 'q" in line:
+            id_match = re.search(r"id:\s*'(q\d+)'", line)
+            if id_match:
+                qid = id_match.group(1)
+                axis = None
+                text = None
 
-    # More robust extraction
-    question_blocks = re.findall(
-        r"\{\s*id:\s*'(q\d+)',\s*axis:\s*'([^']*)',\s*text:\s*'((?:[^'\\]|\\.)*)'(?:,\s*subtext:\s*'((?:[^'\\]|\\.)*)')?",
-        content
-    )
+                # Extract axis and text from following lines
+                for j in range(i, min(i + 15, len(lines))):
+                    if "axis:" in lines[j]:
+                        axis_match = re.search(r"axis:\s*'([^']*)'", lines[j])
+                        if axis_match:
+                            axis = axis_match.group(1)
 
-    for match in question_blocks:
-        qid, axis, text, subtext = match
-        text = text.replace("\\'", "'").replace('\\"', '"')
-        subtext = subtext.replace("\\'", "'").replace('\\"', '"') if subtext else None
+                    if "text:" in lines[j]:
+                        # Try single quotes first
+                        text_match = re.search(r"text:\s*'([^']*)'", lines[j])
+                        if not text_match:
+                            # Try double quotes
+                            text_match = re.search(r'text:\s*"([^"]*)"', lines[j])
 
-        questions.append({
-            "id": qid,
-            "axis": axis,
-            "text": text,
-            "subtext": subtext if subtext else None
-        })
+                        if text_match:
+                            text = text_match.group(1)
+
+                        if axis and text:
+                            questions.append({
+                                "id": qid,
+                                "axis": axis,
+                                "text": text
+                            })
+                            break
+        i += 1
 
     print(f"Extracted {len(questions)} questions from {INPUT_FILE}")
     return questions
@@ -165,7 +181,7 @@ def translate_questions(questions: List[Dict]) -> Dict[str, Dict]:
 def generate_ts_output(questions: List[Dict], translations: Dict[str, Dict]) -> str:
     """Generate TypeScript output file"""
     ts_content = """/**
- * Auto-generated translations for all 171 assessment questions
+ * Auto-generated translations for all 170 assessment questions
  * Generated from: assessmentQuestions.ts
  *
  * Structure:
@@ -213,7 +229,7 @@ export const getQuestionTranslation = (
     return ts_content
 
 def main():
-    print("Translating all 171 assessment questions using Google Translate...\n")
+    print("Translating all 170 assessment questions using Google Translate...\n")
 
     # Extract questions
     questions = extract_questions()
