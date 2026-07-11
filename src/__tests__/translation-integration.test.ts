@@ -1,19 +1,19 @@
 /**
  * Integration test for multilingual assessment
- * Verifies all 171 questions are translateable and integration works
+ * Verifies all 170 questions are translateable and integration works
  */
 
 import { assessmentQuestions, getTotalQuestions } from '../data/assessmentQuestions';
 
-describe('Translation Integration - All 171 Questions', () => {
-  test('should have exactly 171 questions total', () => {
-    expect(getTotalQuestions()).toBe(171);
-    expect(assessmentQuestions).toHaveLength(171);
+describe('Translation Integration - All 170 Questions', () => {
+  test('should have exactly 170 questions total', () => {
+    expect(getTotalQuestions()).toBe(170);
+    expect(assessmentQuestions).toHaveLength(170);
   });
 
-  test('should have questions q1 through q171', () => {
+  test('should have questions q1 through q170', () => {
     const ids = assessmentQuestions.map(q => q.id);
-    for (let i = 1; i <= 171; i++) {
+    for (let i = 1; i <= 170; i++) {
       expect(ids).toContain(`q${i}`);
     }
   });
@@ -27,10 +27,10 @@ describe('Translation Integration - All 171 Questions', () => {
     });
   });
 
-  test('questions 146-171 should be thought experiments', () => {
-    const experiments = assessmentQuestions.slice(145, 171);
+  test('questions 146-170 should be thought experiments', () => {
+    const experiments = assessmentQuestions.slice(145, 170);
 
-    expect(experiments).toHaveLength(26);
+    expect(experiments).toHaveLength(25);
 
     const expectedExperiments = [
       'Translation Engine',
@@ -58,7 +58,6 @@ describe('Translation Integration - All 171 Questions', () => {
       'Collective Cognition',
       'Moral Licensing',
       'Temporal Ethics',
-      'Meta-Reflection',
     ];
 
     experiments.forEach((q, idx) => {

@@ -1081,12 +1081,6 @@ export const assessmentQuestions: Question[] = [
     text: 'The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?',
     type: 'text',
   },
-  {
-    id: 'q171',
-    axis: 'synthesis',
-    text: 'Meta-Reflection: Looking back across both the core questions and thought experiments, what are the deepest tensions in your worldview? Where do your values conflict? What surprised you about how you think?',
-    type: 'text',
-  },
 ];
 
 export const getQuestion = (index: number): Question | undefined => {
