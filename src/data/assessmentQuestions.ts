@@ -1074,15 +1074,15 @@ export const assessmentQuestions: Question[] = [
   {
     id: 'q146',
     axis: 'ontological',
-    text: 'The Translation Engine: Dr. Sarah Chen receives text in Chinese and uses only a lookup table and formal rules to produce English translations—mechanically, without understanding Chinese. Yet her translations are accurate and move readers. Does Sarah understand Chinese? What is the difference between functional and phenomenal understanding?',
-    simplified: 'A translator mechanically converts Chinese to English perfectly without understanding. Does perfect output mean understanding?',
+    text: 'Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?',
+    simplified: 'An AI\'s accurate medical results are incomprehensible. Can you trust what you can\'t understand?',
     type: 'text',
   },
   {
     id: 'q147',
     axis: 'relational',
-    text: 'The Empathy Prison: Marcus is in a room with an AI trained on his psychology. The AI provides perfect, soulless empathy—exactly calibrated to his emotional needs. No inner experience, just perfect simulation. He feels more understood than ever. Should he stay in the room of perfect simulation or return to imperfect human understanding?',
-    simplified: 'An AI perfectly understands your emotions with no inner feelings. Stay for perfect simulation or seek imperfect human connection?',
+    text: 'Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?',
+    simplified: 'An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?',
     type: 'text',
   },
   {
@@ -1102,8 +1102,8 @@ export const assessmentQuestions: Question[] = [
   {
     id: 'q150',
     axis: 'socio-economic',
-    text: 'The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?',
-    simplified: 'AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?',
+    text: 'You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife\'s edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you\'re wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.',
+    simplified: 'An uncertain being might be conscious. Extend protection based on possibility or require proof?',
     type: 'text',
   },
 
@@ -1185,8 +1185,8 @@ export const assessmentQuestions: Question[] = [
   {
     id: 'q161',
     axis: 'ontological',
-    text: 'The Questionnaire Problem: This assessment shapes your answers through framing. Questions about "AI safety vs. growth" get different responses than "achieving both." Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?',
-    simplified: 'AI predicts crime with 94% accuracy but citizens can\'t see its reasoning. Can surveillance be legitimate without transparency?',
+    text: 'You realize something vertiginous: this very assessment shapes the worldview it\'s meant to measure. How questions are framed determines how you answer them. \'AI safety versus growth\' gets different responses than \'achieving both.\' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can\'t escape the suspicion that you\'ve been constructed by the very tool meant to reveal you. What you\'re experiencing as self-knowledge might be self-creation.',
+    simplified: 'This assessment frames your worldview. Are your answers discovered or constructed?',
     type: 'text',
   },
   {
@@ -1248,8 +1248,8 @@ export const assessmentQuestions: Question[] = [
   {
     id: 'q170',
     axis: 'risk-profile',
-    text: 'The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?',
-    simplified: 'What are the deepest tensions in your worldview?',
+    text: 'You reach the end of this assessment and realize: you\'ve been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You\'re not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?',
+    simplified: 'This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?',
     type: 'text',
   },
 ];

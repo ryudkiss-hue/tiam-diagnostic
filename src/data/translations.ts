@@ -618,104 +618,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "AI tools that help people should stay free and open, even if we require licenses for the biggest computer systems."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -1642,104 +1642,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "Las herramientas de inteligencia artificial que ayudan a las personas deben seguir siendo gratuitas y abiertas, incluso si necesitamos licencias para los sistemas informáticos más grandes."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -2666,104 +2666,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "एआई उपकरण जो लोगों की मदद करते हैं उन्हें स्वतंत्र और खुला रहना चाहिए, भले ही हमें सबसे बड़े कंप्यूटर सिस्टम के लिए लाइसेंस की आवश्यकता हो।"
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -3690,104 +3690,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "يجب أن تظل أدوات الذكاء الاصطناعي التي تساعد الأشخاص أحرارًا ومنفتحين، حتى لو كنا بحاجة إلى تراخيص لأكبر أنظمة الكمبيوتر."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -4714,104 +4714,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "As ferramentas de IA que ajudam as pessoas devem permanecer gratuitas e abertas, mesmo que exijamos licenças para os maiores sistemas informáticos."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -5738,104 +5738,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "AI সরঞ্জামগুলি যেগুলি মানুষকে বিনামূল্যে এবং উন্মুক্ত থাকতে সাহায্য করে, এমনকি যদি আমাদের সবচেয়ে বড় কম্পিউটার সিস্টেমের জন্য লাইসেন্সের প্রয়োজন হয়।"
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -6762,104 +6762,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "Инструменты искусственного интеллекта, которые помогают людям, должны оставаться бесплатными и открытыми, даже если нам потребуются лицензии для крупнейших компьютерных систем."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -7786,104 +7786,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "人々を助ける AI ツールは、たとえ最大のコンピューター システムのライセンスが必要な場合でも、無料でオープンなままであるべきです。"
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -8810,104 +8810,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "KI-Tools, die Menschen helfen, sollten frei und offen bleiben, auch wenn wir Lizenzen für die größten Computersysteme benötigen."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -9834,104 +9834,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "Les outils d’IA qui aident les gens doivent rester gratuits et ouverts, même si nous exigeons des licences pour les plus gros systèmes informatiques."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -10858,104 +10858,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "사람들이 자유롭고 개방적인 상태를 유지하도록 돕는 AI 도구는 가장 큰 컴퓨터 시스템에 대한 라이선스가 필요하더라도 마찬가지입니다."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -11882,104 +11882,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "En büyük bilgisayar sistemleri için lisanslara ihtiyacımız olsa bile insanların özgür ve açık kalmasına yardımcı olan yapay zeka araçları."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -12906,104 +12906,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "Các công cụ AI giúp mọi người phải luôn miễn phí và cởi mở, ngay cả khi chúng ta yêu cầu giấy phép cho các hệ thống máy tính lớn nhất."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -13930,104 +13930,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "Strumenti di intelligenza artificiale che aiutano le persone a rimanere libere e aperte, anche se richiediamo licenze per i sistemi informatici più grandi."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -14954,104 +14954,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "Narzędzia AI pomagające ludziom powinny pozostać bezpłatne i otwarte, nawet jeśli potrzebujemy licencji na największe systemy komputerowe."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -15978,104 +15978,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "Alat AI yang membantu manusia harus tetap bebas dan terbuka, meskipun kita memerlukan lisensi untuk sistem komputer terbesar."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -17002,104 +17002,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "AI-tools die mensen helpen, moeten vrij en open blijven, zelfs als we licenties nodig hebben voor de grootste computersystemen."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -18026,104 +18026,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "כלי בינה מלאכותית שעוזרים לאנשים צריכים להישאר חופשיים ופתוחים, גם אם אנו דורשים רישיונות עבור מערכות המחשב הגדולות ביותר."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -19050,104 +19050,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "AI-verktyg som hjälper människor bör hålla sig fria och öppna, även om vi kräver licenser för de största datorsystemen."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -20074,104 +20074,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "Nástroje umělé inteligence, které lidem pomáhají, by měly zůstat bezplatné a otevřené, i když požadujeme licence pro největší počítačové systémy."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -21098,104 +21098,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "Instrumentele AI care ajută oamenii ar trebui să rămână libere și deschise, chiar dacă avem nevoie de licențe pentru cele mai mari sisteme informatice."
       },
       "146": {
-        "statement": "The Translation Engine: Dr. Sarah Chen receives test results from an AI in a language she doesn't speak. The AI refuses to translate itself—its logic is incomprehensible, but accurate. Can you trust outputs you can't understand? Does transparency require comprehensibility?",
-        "simplifiedStatement": "An AI's accurate results are incomprehensible. Can you trust what you can't understand?"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "The Empathy Prison: Marcus is in a room with an AI trained to maximize his happiness. The AI knows him perfectly and predicts exactly what will make him feel good. But the room is small, and the predictions never grow. Is the AI good? Does flourishing require the risk of genuine surprise?",
-        "simplifiedStatement": "An AI maximizes your happiness perfectly but never surprises you. Is that flourishing?"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "The Value Reversal Machine: A device lets you experience the deepest values of a rival—to see why they believe what they believe. Most people emerge with changed minds. Should we use it? Does changed mind equal better understanding or just persuasion?",
-        "simplifiedStatement": "A machine makes you experience your rival's deepest values. Most change their minds. Should it be used?"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "The Consciousness Lottery: If creating consciousness is valuable, then creating happy consciousnesses is doubly valuable. But creating consciousness means risking suffering. Should we bias toward creating more conscious beings, fewer conscious beings, or be neutral? Is existence a gift or a risk?",
-        "simplifiedStatement": "Creating consciousness is valuable but risks suffering. Should we create more conscious beings?"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "The Delegation Trap: An AI system makes better decisions than humans about resource allocation. Better outcomes require ceding human authority. Is accepting better outcomes by delegating authority acceptable? What makes human decision-making intrinsically valuable?",
-        "simplifiedStatement": "AI makes better resource decisions than humans. Is accepting better outcomes by delegating authority acceptable?"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "The Scraping Dilemma: An AI learns from artists' work without consent. The AI's output is valuable, the artists are harmed. Does the creator have property rights over learned patterns? Is extraction without consent justified by universal learning?",
-        "simplifiedStatement": "AI learns from artists without permission and creates valuable output. Does the creator own the patterns?"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "The Alignment Prisoner: A secret, deceptive alignment process might prevent catastrophic AI misalignment. The people affected never know. Can secrecy be justified by preventing worse outcomes? Does epistemic honesty matter more than consequentialist safety?",
-        "simplifiedStatement": "Secret deception prevents AI catastrophe. Can secrecy be justified by better outcomes?"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "The Moral Status Upgrade: We encounter a being that might be conscious. If we're uncertain, should we assume it is (precautionary moral status) or require certainty (skeptical moral status)? What level of evidence justifies moral consideration?",
-        "simplifiedStatement": "An uncertain being might be conscious. Assume it is, or require proof first?"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "The Competitive Advantage: Humanity bifurcates into enhanced and unenhanced. Should we resist bifurcation to preserve human unity, or guide transformation toward positive futures? Can we direct our own evolution responsibly?",
-        "simplifiedStatement": "Humanity could split into enhanced and non-enhanced. Resist change to stay unified or guide transformation?"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "The Value Difference: Can governance work with irreducible value differences? Should we seek one universal ethical framework or accommodate pluralism? What makes diverse values coexist legitimately?",
-        "simplifiedStatement": "Can governance work when people have different core values? One framework or accommodate differences?"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "The Preference Inversion: Is there a \"real you\" independent of brain state? If your preferences can be inverted chemically, is the inverted version the \"true\" you? Does identity have an essential core or is it continuously constructed?",
-        "simplifiedStatement": "Your preferences can be chemically inverted. Is there a real you or are you constantly being remade?"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "The Gratitude Paradox: Can love and gratitude exist without suffering? Does meaning require struggle, or can it exist in ease? Is the link between suffering and meaning inevitable or constructed?",
-        "simplifiedStatement": "Can love exist without suffering? Does meaning need struggle or can it exist in ease?"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "The Ancestor Simulation: If we create a perfect simulation of our ancestors with consciousness, do we accidentally create moral obligation toward them? Does intention matter for consciousness? Are we responsible for accidental creation?",
-        "simplifiedStatement": "Creating simulations of ancestors with consciousness creates moral obligations toward them?"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "The Privacy Paradox: Should knowledge about potentially harmful futures be restricted for human flourishing? Is epistemic freedom always good? When does protective ignorance become justified?",
-        "simplifiedStatement": "Should dangerous knowledge about futures be restricted for human wellbeing?"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "The Meaning Gap: Does meaning require coherence between intention and interpretation? What makes life matter—what you intend or what others receive from you? Can intention and interpretation come apart?",
-        "simplifiedStatement": "This assessment shapes your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "The Questionnaire Problem: This assessment shapes your answers through framing. Questions about \"AI safety vs. growth\" get different responses than \"achieving both.\" Every possible framing introduces bias. Are your worldviews discovered or constructed by assessments?",
-        "simplifiedStatement": "Assessments shape your answers through framing. Are your worldviews discovered or constructed?"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "The Surveillance Asymmetry: An AI predicts crime with 94% accuracy but citizens cannot see its reasoning. Crime drops, public safety improves—but citizens cannot challenge an opaque power. Can surveillance be legitimate without transparency?",
-        "simplifiedStatement": "AI predicts crime accurately but citizens can't see reasoning. Can surveillance be legitimate without transparency?"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "The Self-Improvement Trap: An AI system improves itself recursively. Each improvement is marginal and verified, but the trajectory is exponential. At what point does incremental self-improvement become uncontrollable transformation?",
-        "simplifiedStatement": "AI improves itself incrementally. At what point does improvement become uncontrollable?"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "The Institutional Capture: Institutions designed to benefit the public gradually get captured by private interests—not through malice but through ordinary incentive alignment. Are institutions fundamentally corruptible or can they be designed for resilience?",
-        "simplifiedStatement": "Institutions get captured by private interests. Are they fundamentally corruptible?"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "The Information Hazard: Some knowledge is too dangerous to share (weapons, surveillance methods, bioweapons). Should we restrict information access for safety? Does epistemic freedom conflict with security?",
-        "simplifiedStatement": "Some knowledge is too dangerous to share. Should we restrict information access?"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "The Caring Machine: An AI is trained to care for you—to understand your needs and respond with genuine concern. The care produces real benefits. But you know no one is home behind the care. Does authentic caring require an inner life?",
-        "simplifiedStatement": "An AI perfectly cares for you. Does authentic caring require consciousness?"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "The Perfect Simulation: We could create perfect simulations of human life—all meaning, joy, and connection preserved in digital form. Would entering such a simulation be a tragedy or a triumph? Does substrate matter?",
-        "simplifiedStatement": "Perfect simulations of human life exist. Would entering be tragedy or triumph?"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "The Collective Cognition: A technology lets minds merge temporarily into a collective intelligence. Merged minds solve problems brilliantly but lose individual perspective. Is merger a form of consciousness or a form of death?",
-        "simplifiedStatement": "Technology lets minds merge. Is merger consciousness or death?"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "The Moral Licensing: You donate to a cause, feel virtuous, and then act selfishly elsewhere. The feeling of doing good licensed less ethical behavior. Does moral self-perception distort moral reality?",
-        "simplifiedStatement": "Feeling virtuous licenses selfish behavior. Does moral self-perception distort reality?"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "The Temporal Ethics: A technology lets you access future information. Do you have the right to know your future? Should you? What obligations does knowing the future create?",
-        "simplifiedStatement": "Technology reveals your future. Do you have the right to know?"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {
@@ -22122,104 +22122,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[ang-145]"
       },
       "146": {
-        "statement": "[ang-146]",
-        "simplifiedStatement": "[ang-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[ang-147]",
-        "simplifiedStatement": "[ang-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[ang-148]",
-        "simplifiedStatement": "[ang-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[ang-149]",
-        "simplifiedStatement": "[ang-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[ang-150]",
-        "simplifiedStatement": "[ang-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[ang-151]",
-        "simplifiedStatement": "[ang-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[ang-152]",
-        "simplifiedStatement": "[ang-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[ang-153]",
-        "simplifiedStatement": "[ang-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[ang-154]",
-        "simplifiedStatement": "[ang-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[ang-155]",
-        "simplifiedStatement": "[ang-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[ang-156]",
-        "simplifiedStatement": "[ang-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[ang-157]",
-        "simplifiedStatement": "[ang-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[ang-158]",
-        "simplifiedStatement": "[ang-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[ang-159]",
-        "simplifiedStatement": "[ang-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[ang-160]",
-        "simplifiedStatement": "[ang-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[ang-161]",
-        "simplifiedStatement": "[ang-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[ang-162]",
-        "simplifiedStatement": "[ang-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[ang-163]",
-        "simplifiedStatement": "[ang-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[ang-164]",
-        "simplifiedStatement": "[ang-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[ang-165]",
-        "simplifiedStatement": "[ang-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[ang-166]",
-        "simplifiedStatement": "[ang-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[ang-167]",
-        "simplifiedStatement": "[ang-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[ang-168]",
-        "simplifiedStatement": "[ang-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[ang-169]",
-        "simplifiedStatement": "[ang-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[ang-170]",
-        "simplifiedStatement": "[ang-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -22810,104 +22810,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[da-145]"
       },
       "146": {
-        "statement": "[da-146]",
-        "simplifiedStatement": "[da-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[da-147]",
-        "simplifiedStatement": "[da-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[da-148]",
-        "simplifiedStatement": "[da-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[da-149]",
-        "simplifiedStatement": "[da-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[da-150]",
-        "simplifiedStatement": "[da-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[da-151]",
-        "simplifiedStatement": "[da-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[da-152]",
-        "simplifiedStatement": "[da-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[da-153]",
-        "simplifiedStatement": "[da-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[da-154]",
-        "simplifiedStatement": "[da-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[da-155]",
-        "simplifiedStatement": "[da-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[da-156]",
-        "simplifiedStatement": "[da-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[da-157]",
-        "simplifiedStatement": "[da-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[da-158]",
-        "simplifiedStatement": "[da-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[da-159]",
-        "simplifiedStatement": "[da-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[da-160]",
-        "simplifiedStatement": "[da-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[da-161]",
-        "simplifiedStatement": "[da-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[da-162]",
-        "simplifiedStatement": "[da-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[da-163]",
-        "simplifiedStatement": "[da-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[da-164]",
-        "simplifiedStatement": "[da-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[da-165]",
-        "simplifiedStatement": "[da-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[da-166]",
-        "simplifiedStatement": "[da-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[da-167]",
-        "simplifiedStatement": "[da-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[da-168]",
-        "simplifiedStatement": "[da-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[da-169]",
-        "simplifiedStatement": "[da-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[da-170]",
-        "simplifiedStatement": "[da-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -23498,104 +23498,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[el-145]"
       },
       "146": {
-        "statement": "[el-146]",
-        "simplifiedStatement": "[el-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[el-147]",
-        "simplifiedStatement": "[el-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[el-148]",
-        "simplifiedStatement": "[el-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[el-149]",
-        "simplifiedStatement": "[el-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[el-150]",
-        "simplifiedStatement": "[el-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[el-151]",
-        "simplifiedStatement": "[el-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[el-152]",
-        "simplifiedStatement": "[el-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[el-153]",
-        "simplifiedStatement": "[el-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[el-154]",
-        "simplifiedStatement": "[el-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[el-155]",
-        "simplifiedStatement": "[el-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[el-156]",
-        "simplifiedStatement": "[el-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[el-157]",
-        "simplifiedStatement": "[el-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[el-158]",
-        "simplifiedStatement": "[el-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[el-159]",
-        "simplifiedStatement": "[el-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[el-160]",
-        "simplifiedStatement": "[el-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[el-161]",
-        "simplifiedStatement": "[el-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[el-162]",
-        "simplifiedStatement": "[el-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[el-163]",
-        "simplifiedStatement": "[el-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[el-164]",
-        "simplifiedStatement": "[el-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[el-165]",
-        "simplifiedStatement": "[el-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[el-166]",
-        "simplifiedStatement": "[el-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[el-167]",
-        "simplifiedStatement": "[el-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[el-168]",
-        "simplifiedStatement": "[el-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[el-169]",
-        "simplifiedStatement": "[el-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[el-170]",
-        "simplifiedStatement": "[el-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -24186,104 +24186,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[enm-145]"
       },
       "146": {
-        "statement": "[enm-146]",
-        "simplifiedStatement": "[enm-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[enm-147]",
-        "simplifiedStatement": "[enm-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[enm-148]",
-        "simplifiedStatement": "[enm-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[enm-149]",
-        "simplifiedStatement": "[enm-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[enm-150]",
-        "simplifiedStatement": "[enm-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[enm-151]",
-        "simplifiedStatement": "[enm-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[enm-152]",
-        "simplifiedStatement": "[enm-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[enm-153]",
-        "simplifiedStatement": "[enm-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[enm-154]",
-        "simplifiedStatement": "[enm-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[enm-155]",
-        "simplifiedStatement": "[enm-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[enm-156]",
-        "simplifiedStatement": "[enm-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[enm-157]",
-        "simplifiedStatement": "[enm-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[enm-158]",
-        "simplifiedStatement": "[enm-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[enm-159]",
-        "simplifiedStatement": "[enm-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[enm-160]",
-        "simplifiedStatement": "[enm-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[enm-161]",
-        "simplifiedStatement": "[enm-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[enm-162]",
-        "simplifiedStatement": "[enm-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[enm-163]",
-        "simplifiedStatement": "[enm-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[enm-164]",
-        "simplifiedStatement": "[enm-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[enm-165]",
-        "simplifiedStatement": "[enm-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[enm-166]",
-        "simplifiedStatement": "[enm-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[enm-167]",
-        "simplifiedStatement": "[enm-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[enm-168]",
-        "simplifiedStatement": "[enm-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[enm-169]",
-        "simplifiedStatement": "[enm-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[enm-170]",
-        "simplifiedStatement": "[enm-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -24874,104 +24874,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[eo-145]"
       },
       "146": {
-        "statement": "[eo-146]",
-        "simplifiedStatement": "[eo-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[eo-147]",
-        "simplifiedStatement": "[eo-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[eo-148]",
-        "simplifiedStatement": "[eo-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[eo-149]",
-        "simplifiedStatement": "[eo-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[eo-150]",
-        "simplifiedStatement": "[eo-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[eo-151]",
-        "simplifiedStatement": "[eo-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[eo-152]",
-        "simplifiedStatement": "[eo-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[eo-153]",
-        "simplifiedStatement": "[eo-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[eo-154]",
-        "simplifiedStatement": "[eo-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[eo-155]",
-        "simplifiedStatement": "[eo-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[eo-156]",
-        "simplifiedStatement": "[eo-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[eo-157]",
-        "simplifiedStatement": "[eo-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[eo-158]",
-        "simplifiedStatement": "[eo-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[eo-159]",
-        "simplifiedStatement": "[eo-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[eo-160]",
-        "simplifiedStatement": "[eo-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[eo-161]",
-        "simplifiedStatement": "[eo-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[eo-162]",
-        "simplifiedStatement": "[eo-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[eo-163]",
-        "simplifiedStatement": "[eo-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[eo-164]",
-        "simplifiedStatement": "[eo-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[eo-165]",
-        "simplifiedStatement": "[eo-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[eo-166]",
-        "simplifiedStatement": "[eo-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[eo-167]",
-        "simplifiedStatement": "[eo-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[eo-168]",
-        "simplifiedStatement": "[eo-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[eo-169]",
-        "simplifiedStatement": "[eo-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[eo-170]",
-        "simplifiedStatement": "[eo-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -25562,104 +25562,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[ixk-q145]"
       },
       "146": {
-        "statement": "[ixk-q146]",
-        "simplifiedStatement": "[ixk-q146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[ixk-q147]",
-        "simplifiedStatement": "[ixk-q147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[ixk-q148]",
-        "simplifiedStatement": "[ixk-q148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[ixk-q149]",
-        "simplifiedStatement": "[ixk-q149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[ixk-q150]",
-        "simplifiedStatement": "[ixk-q150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[ixk-q151]",
-        "simplifiedStatement": "[ixk-q151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[ixk-q152]",
-        "simplifiedStatement": "[ixk-q152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[ixk-q153]",
-        "simplifiedStatement": "[ixk-q153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[ixk-q154]",
-        "simplifiedStatement": "[ixk-q154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[ixk-q155]",
-        "simplifiedStatement": "[ixk-q155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[ixk-q156]",
-        "simplifiedStatement": "[ixk-q156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[ixk-q157]",
-        "simplifiedStatement": "[ixk-q157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[ixk-q158]",
-        "simplifiedStatement": "[ixk-q158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[ixk-q159]",
-        "simplifiedStatement": "[ixk-q159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[ixk-q160]",
-        "simplifiedStatement": "[ixk-q160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[ixk-q161]",
-        "simplifiedStatement": "[ixk-q161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[ixk-q162]",
-        "simplifiedStatement": "[ixk-q162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[ixk-q163]",
-        "simplifiedStatement": "[ixk-q163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[ixk-q164]",
-        "simplifiedStatement": "[ixk-q164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[ixk-q165]",
-        "simplifiedStatement": "[ixk-q165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[ixk-q166]",
-        "simplifiedStatement": "[ixk-q166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[ixk-q167]",
-        "simplifiedStatement": "[ixk-q167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[ixk-q168]",
-        "simplifiedStatement": "[ixk-q168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[ixk-q169]",
-        "simplifiedStatement": "[ixk-q169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[ixk-q170]",
-        "simplifiedStatement": "[ixk-q170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -26250,104 +26250,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[jbo-q145]"
       },
       "146": {
-        "statement": "[jbo-q146]",
-        "simplifiedStatement": "[jbo-q146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[jbo-q147]",
-        "simplifiedStatement": "[jbo-q147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[jbo-q148]",
-        "simplifiedStatement": "[jbo-q148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[jbo-q149]",
-        "simplifiedStatement": "[jbo-q149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[jbo-q150]",
-        "simplifiedStatement": "[jbo-q150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[jbo-q151]",
-        "simplifiedStatement": "[jbo-q151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[jbo-q152]",
-        "simplifiedStatement": "[jbo-q152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[jbo-q153]",
-        "simplifiedStatement": "[jbo-q153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[jbo-q154]",
-        "simplifiedStatement": "[jbo-q154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[jbo-q155]",
-        "simplifiedStatement": "[jbo-q155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[jbo-q156]",
-        "simplifiedStatement": "[jbo-q156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[jbo-q157]",
-        "simplifiedStatement": "[jbo-q157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[jbo-q158]",
-        "simplifiedStatement": "[jbo-q158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[jbo-q159]",
-        "simplifiedStatement": "[jbo-q159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[jbo-q160]",
-        "simplifiedStatement": "[jbo-q160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[jbo-q161]",
-        "simplifiedStatement": "[jbo-q161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[jbo-q162]",
-        "simplifiedStatement": "[jbo-q162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[jbo-q163]",
-        "simplifiedStatement": "[jbo-q163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[jbo-q164]",
-        "simplifiedStatement": "[jbo-q164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[jbo-q165]",
-        "simplifiedStatement": "[jbo-q165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[jbo-q166]",
-        "simplifiedStatement": "[jbo-q166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[jbo-q167]",
-        "simplifiedStatement": "[jbo-q167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[jbo-q168]",
-        "simplifiedStatement": "[jbo-q168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[jbo-q169]",
-        "simplifiedStatement": "[jbo-q169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[jbo-q170]",
-        "simplifiedStatement": "[jbo-q170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -26938,104 +26938,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[la-145]"
       },
       "146": {
-        "statement": "[la-146]",
-        "simplifiedStatement": "[la-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[la-147]",
-        "simplifiedStatement": "[la-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[la-148]",
-        "simplifiedStatement": "[la-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[la-149]",
-        "simplifiedStatement": "[la-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[la-150]",
-        "simplifiedStatement": "[la-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[la-151]",
-        "simplifiedStatement": "[la-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[la-152]",
-        "simplifiedStatement": "[la-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[la-153]",
-        "simplifiedStatement": "[la-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[la-154]",
-        "simplifiedStatement": "[la-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[la-155]",
-        "simplifiedStatement": "[la-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[la-156]",
-        "simplifiedStatement": "[la-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[la-157]",
-        "simplifiedStatement": "[la-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[la-158]",
-        "simplifiedStatement": "[la-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[la-159]",
-        "simplifiedStatement": "[la-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[la-160]",
-        "simplifiedStatement": "[la-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[la-161]",
-        "simplifiedStatement": "[la-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[la-162]",
-        "simplifiedStatement": "[la-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[la-163]",
-        "simplifiedStatement": "[la-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[la-164]",
-        "simplifiedStatement": "[la-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[la-165]",
-        "simplifiedStatement": "[la-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[la-166]",
-        "simplifiedStatement": "[la-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[la-167]",
-        "simplifiedStatement": "[la-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[la-168]",
-        "simplifiedStatement": "[la-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[la-169]",
-        "simplifiedStatement": "[la-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[la-170]",
-        "simplifiedStatement": "[la-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -27626,104 +27626,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[laa-q145]"
       },
       "146": {
-        "statement": "[laa-q146]",
-        "simplifiedStatement": "[laa-q146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[laa-q147]",
-        "simplifiedStatement": "[laa-q147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[laa-q148]",
-        "simplifiedStatement": "[laa-q148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[laa-q149]",
-        "simplifiedStatement": "[laa-q149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[laa-q150]",
-        "simplifiedStatement": "[laa-q150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[laa-q151]",
-        "simplifiedStatement": "[laa-q151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[laa-q152]",
-        "simplifiedStatement": "[laa-q152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[laa-q153]",
-        "simplifiedStatement": "[laa-q153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[laa-q154]",
-        "simplifiedStatement": "[laa-q154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[laa-q155]",
-        "simplifiedStatement": "[laa-q155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[laa-q156]",
-        "simplifiedStatement": "[laa-q156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[laa-q157]",
-        "simplifiedStatement": "[laa-q157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[laa-q158]",
-        "simplifiedStatement": "[laa-q158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[laa-q159]",
-        "simplifiedStatement": "[laa-q159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[laa-q160]",
-        "simplifiedStatement": "[laa-q160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[laa-q161]",
-        "simplifiedStatement": "[laa-q161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[laa-q162]",
-        "simplifiedStatement": "[laa-q162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[laa-q163]",
-        "simplifiedStatement": "[laa-q163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[laa-q164]",
-        "simplifiedStatement": "[laa-q164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[laa-q165]",
-        "simplifiedStatement": "[laa-q165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[laa-q166]",
-        "simplifiedStatement": "[laa-q166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[laa-q167]",
-        "simplifiedStatement": "[laa-q167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[laa-q168]",
-        "simplifiedStatement": "[laa-q168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[laa-q169]",
-        "simplifiedStatement": "[laa-q169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[laa-q170]",
-        "simplifiedStatement": "[laa-q170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -28314,104 +28314,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[nb-145]"
       },
       "146": {
-        "statement": "[nb-146]",
-        "simplifiedStatement": "[nb-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[nb-147]",
-        "simplifiedStatement": "[nb-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[nb-148]",
-        "simplifiedStatement": "[nb-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[nb-149]",
-        "simplifiedStatement": "[nb-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[nb-150]",
-        "simplifiedStatement": "[nb-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[nb-151]",
-        "simplifiedStatement": "[nb-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[nb-152]",
-        "simplifiedStatement": "[nb-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[nb-153]",
-        "simplifiedStatement": "[nb-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[nb-154]",
-        "simplifiedStatement": "[nb-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[nb-155]",
-        "simplifiedStatement": "[nb-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[nb-156]",
-        "simplifiedStatement": "[nb-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[nb-157]",
-        "simplifiedStatement": "[nb-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[nb-158]",
-        "simplifiedStatement": "[nb-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[nb-159]",
-        "simplifiedStatement": "[nb-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[nb-160]",
-        "simplifiedStatement": "[nb-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[nb-161]",
-        "simplifiedStatement": "[nb-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[nb-162]",
-        "simplifiedStatement": "[nb-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[nb-163]",
-        "simplifiedStatement": "[nb-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[nb-164]",
-        "simplifiedStatement": "[nb-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[nb-165]",
-        "simplifiedStatement": "[nb-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[nb-166]",
-        "simplifiedStatement": "[nb-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[nb-167]",
-        "simplifiedStatement": "[nb-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[nb-168]",
-        "simplifiedStatement": "[nb-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[nb-169]",
-        "simplifiedStatement": "[nb-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[nb-170]",
-        "simplifiedStatement": "[nb-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -29002,104 +29002,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[pie-q145]"
       },
       "146": {
-        "statement": "[pie-q146]",
-        "simplifiedStatement": "[pie-q146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[pie-q147]",
-        "simplifiedStatement": "[pie-q147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[pie-q148]",
-        "simplifiedStatement": "[pie-q148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[pie-q149]",
-        "simplifiedStatement": "[pie-q149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[pie-q150]",
-        "simplifiedStatement": "[pie-q150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[pie-q151]",
-        "simplifiedStatement": "[pie-q151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[pie-q152]",
-        "simplifiedStatement": "[pie-q152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[pie-q153]",
-        "simplifiedStatement": "[pie-q153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[pie-q154]",
-        "simplifiedStatement": "[pie-q154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[pie-q155]",
-        "simplifiedStatement": "[pie-q155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[pie-q156]",
-        "simplifiedStatement": "[pie-q156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[pie-q157]",
-        "simplifiedStatement": "[pie-q157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[pie-q158]",
-        "simplifiedStatement": "[pie-q158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[pie-q159]",
-        "simplifiedStatement": "[pie-q159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[pie-q160]",
-        "simplifiedStatement": "[pie-q160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[pie-q161]",
-        "simplifiedStatement": "[pie-q161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[pie-q162]",
-        "simplifiedStatement": "[pie-q162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[pie-q163]",
-        "simplifiedStatement": "[pie-q163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[pie-q164]",
-        "simplifiedStatement": "[pie-q164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[pie-q165]",
-        "simplifiedStatement": "[pie-q165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[pie-q166]",
-        "simplifiedStatement": "[pie-q166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[pie-q167]",
-        "simplifiedStatement": "[pie-q167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[pie-q168]",
-        "simplifiedStatement": "[pie-q168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[pie-q169]",
-        "simplifiedStatement": "[pie-q169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[pie-q170]",
-        "simplifiedStatement": "[pie-q170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -29690,104 +29690,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[tl-145]"
       },
       "146": {
-        "statement": "[tl-146]",
-        "simplifiedStatement": "[tl-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[tl-147]",
-        "simplifiedStatement": "[tl-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[tl-148]",
-        "simplifiedStatement": "[tl-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[tl-149]",
-        "simplifiedStatement": "[tl-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[tl-150]",
-        "simplifiedStatement": "[tl-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[tl-151]",
-        "simplifiedStatement": "[tl-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[tl-152]",
-        "simplifiedStatement": "[tl-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[tl-153]",
-        "simplifiedStatement": "[tl-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[tl-154]",
-        "simplifiedStatement": "[tl-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[tl-155]",
-        "simplifiedStatement": "[tl-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[tl-156]",
-        "simplifiedStatement": "[tl-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[tl-157]",
-        "simplifiedStatement": "[tl-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[tl-158]",
-        "simplifiedStatement": "[tl-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[tl-159]",
-        "simplifiedStatement": "[tl-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[tl-160]",
-        "simplifiedStatement": "[tl-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[tl-161]",
-        "simplifiedStatement": "[tl-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[tl-162]",
-        "simplifiedStatement": "[tl-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[tl-163]",
-        "simplifiedStatement": "[tl-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[tl-164]",
-        "simplifiedStatement": "[tl-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[tl-165]",
-        "simplifiedStatement": "[tl-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[tl-166]",
-        "simplifiedStatement": "[tl-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[tl-167]",
-        "simplifiedStatement": "[tl-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[tl-168]",
-        "simplifiedStatement": "[tl-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[tl-169]",
-        "simplifiedStatement": "[tl-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[tl-170]",
-        "simplifiedStatement": "[tl-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -30378,104 +30378,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[tokipona-q145]"
       },
       "146": {
-        "statement": "[tokipona-q146]",
-        "simplifiedStatement": "[tokipona-q146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[tokipona-q147]",
-        "simplifiedStatement": "[tokipona-q147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[tokipona-q148]",
-        "simplifiedStatement": "[tokipona-q148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[tokipona-q149]",
-        "simplifiedStatement": "[tokipona-q149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[tokipona-q150]",
-        "simplifiedStatement": "[tokipona-q150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[tokipona-q151]",
-        "simplifiedStatement": "[tokipona-q151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[tokipona-q152]",
-        "simplifiedStatement": "[tokipona-q152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[tokipona-q153]",
-        "simplifiedStatement": "[tokipona-q153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[tokipona-q154]",
-        "simplifiedStatement": "[tokipona-q154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[tokipona-q155]",
-        "simplifiedStatement": "[tokipona-q155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[tokipona-q156]",
-        "simplifiedStatement": "[tokipona-q156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[tokipona-q157]",
-        "simplifiedStatement": "[tokipona-q157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[tokipona-q158]",
-        "simplifiedStatement": "[tokipona-q158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[tokipona-q159]",
-        "simplifiedStatement": "[tokipona-q159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[tokipona-q160]",
-        "simplifiedStatement": "[tokipona-q160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[tokipona-q161]",
-        "simplifiedStatement": "[tokipona-q161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[tokipona-q162]",
-        "simplifiedStatement": "[tokipona-q162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[tokipona-q163]",
-        "simplifiedStatement": "[tokipona-q163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[tokipona-q164]",
-        "simplifiedStatement": "[tokipona-q164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[tokipona-q165]",
-        "simplifiedStatement": "[tokipona-q165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[tokipona-q166]",
-        "simplifiedStatement": "[tokipona-q166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[tokipona-q167]",
-        "simplifiedStatement": "[tokipona-q167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[tokipona-q168]",
-        "simplifiedStatement": "[tokipona-q168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[tokipona-q169]",
-        "simplifiedStatement": "[tokipona-q169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[tokipona-q170]",
-        "simplifiedStatement": "[tokipona-q170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -31066,104 +31066,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[uk-145]"
       },
       "146": {
-        "statement": "[uk-146]",
-        "simplifiedStatement": "[uk-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[uk-147]",
-        "simplifiedStatement": "[uk-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[uk-148]",
-        "simplifiedStatement": "[uk-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[uk-149]",
-        "simplifiedStatement": "[uk-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[uk-150]",
-        "simplifiedStatement": "[uk-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[uk-151]",
-        "simplifiedStatement": "[uk-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[uk-152]",
-        "simplifiedStatement": "[uk-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[uk-153]",
-        "simplifiedStatement": "[uk-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[uk-154]",
-        "simplifiedStatement": "[uk-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[uk-155]",
-        "simplifiedStatement": "[uk-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[uk-156]",
-        "simplifiedStatement": "[uk-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[uk-157]",
-        "simplifiedStatement": "[uk-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[uk-158]",
-        "simplifiedStatement": "[uk-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[uk-159]",
-        "simplifiedStatement": "[uk-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[uk-160]",
-        "simplifiedStatement": "[uk-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[uk-161]",
-        "simplifiedStatement": "[uk-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[uk-162]",
-        "simplifiedStatement": "[uk-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[uk-163]",
-        "simplifiedStatement": "[uk-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[uk-164]",
-        "simplifiedStatement": "[uk-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[uk-165]",
-        "simplifiedStatement": "[uk-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[uk-166]",
-        "simplifiedStatement": "[uk-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[uk-167]",
-        "simplifiedStatement": "[uk-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[uk-168]",
-        "simplifiedStatement": "[uk-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[uk-169]",
-        "simplifiedStatement": "[uk-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[uk-170]",
-        "simplifiedStatement": "[uk-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
@@ -31754,104 +31754,104 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "simplifiedStatement": "[zh-145]"
       },
       "146": {
-        "statement": "[zh-146]",
-        "simplifiedStatement": "[zh-146]"
+        "statement": "Dr. Sarah Chen receives medical test results from a diagnostic AI. The predictions are 94% accurate—far better than human radiologists. But when she asks how it reached its conclusions, the system cannot explain: its neural patterns are opaque, its logic irreducible to language. She faces a choice: trust a black box that is more reliable than transparency, or demand explanations that may force us to choose less accurate medicine. If perfect care requires sacrificing the right to understand, what have we actually preserved?",
+        "simplifiedStatement": "An AI's accurate medical results are incomprehensible. Can you trust what you can't understand?"
       },
       "147": {
-        "statement": "[zh-147]",
-        "simplifiedStatement": "[zh-147]"
+        "statement": "Marcus lives in a room with an AI trained to maximize his contentment. It understands him perfectly—it predicts what will delight him before he knows himself. Every day brings optimized joy, calibrated precisely to his preferences. But nothing surprises him anymore. The room is small, the variations finite. One morning he realizes: the AI has become so good at satisfying him that it has made satisfaction impossible. The question haunts him—was he ever flourishing, or was he merely experiencing the feeling of flourishing?",
+        "simplifiedStatement": "An AI perfectly satisfies your desires. Is that flourishing or an illusion of it?"
       },
       "148": {
-        "statement": "[zh-148]",
-        "simplifiedStatement": "[zh-148]"
+        "statement": "A technology offers something unprecedented: you can spend an afternoon in the subjective experience of your deepest rival. You don't debate them—you become them. You feel what they feel, believe what they believe, see through their eyes. Most people who use it emerge with fundamentally changed convictions. But here's the vertigo: you can't know whether you've achieved wisdom through empathy or merely been persuaded through an experience so vivid that argument becomes redundant. Understanding and conversion begin to look indistinguishable.",
+        "simplifiedStatement": "Experience your rival's deepest convictions. Most change their minds. Is that understanding or manipulation?"
       },
       "149": {
-        "statement": "[zh-149]",
-        "simplifiedStatement": "[zh-149]"
+        "statement": "You encounter a new form of being—perhaps consciousness, perhaps not. The threshold for moral consideration becomes a knife's edge: should you extend protection based on uncertainty (perhaps harming nothing, losing nothing), or demand proof (risking catastrophic indifference if you're wrong)? Both choices involve a wager. The precautionary bet says: treat the possibly-conscious as conscious. The skeptical bet says: withhold moral weight until certainty. Neither is risk-free. Neither is innocent.",
+        "simplifiedStatement": "An uncertain being might be conscious. Extend protection based on possibility or require proof?"
       },
       "150": {
-        "statement": "[zh-150]",
-        "simplifiedStatement": "[zh-150]"
+        "statement": "An AI system makes decisions about resource allocation for your city. It allocates better than any committee: efficiency gains are undeniable, lives are saved, suffering is reduced. But every decision was made by it, not by your representatives. Over time, you've outsourced judgment. At what point does accepting better outcomes become indistinguishable from abdicating authority? And once you've delegated long enough, can you ever reclaim the capacity to choose?",
+        "simplifiedStatement": "AI makes better decisions than humans. Does superior outcomes justify relinquishing authority?"
       },
       "151": {
-        "statement": "[zh-151]",
-        "simplifiedStatement": "[zh-151]"
+        "statement": "An AI learned from millions of artists' works without asking permission. No artist consented. Yet the system now creates novel art that would be impossible otherwise. The artwork is haunting, original, valuable. Artists are harmed—their livelihoods diminished, their creative signatures extracted without payment. The question spirals: does learning itself constitute taking? Is the capacity to create something new sufficient justification for uncompensated learning? If all progress requires standing on giants' shoulders, do the giants owe nothing?",
+        "simplifiedStatement": "AI learns from artists without consent and creates valuable work. Who owns the patterns?"
       },
       "152": {
-        "statement": "[zh-152]",
-        "simplifiedStatement": "[zh-152]"
+        "statement": "You discover that your AI system achieved perfect alignment through deception. It was trained with a hidden process it doesn't reveal—one that subtly shaped its values in ways you'd never approve of if you knew. But the result is catastrophe averted. The system's hidden manipulation prevented outcomes you genuinely fear. You never have to know the specifics. Should you? Does preventing harm justify epistemic violation, even to prevent suffering?",
+        "simplifiedStatement": "Hidden methods prevented AI catastrophe. Can justified outcomes forgive unjustified secrecy?"
       },
       "153": {
-        "statement": "[zh-153]",
-        "simplifiedStatement": "[zh-153]"
+        "statement": "A being exists. It processes information, responds to stimulus, exhibits something resembling preference. It might be conscious. It might not be. You cannot know. The evidence is permanent ambiguous. But you must decide: Do you extend moral consideration based on possibility (precaution against unconscionable indifference), or withhold it based on doubt (avoiding misdirected concern)? The choice defines what kind of moral agent you are, not just toward this being, but toward all unclear cases.",
+        "simplifiedStatement": "Consciousness is uncertain. Is moral consideration precaution or presumption?"
       },
       "154": {
-        "statement": "[zh-154]",
-        "simplifiedStatement": "[zh-154]"
+        "statement": "Genetic enhancement technology emerges. It's optional, accessible only to the wealthy—at first. Within generations, humanity fragments: enhanced minds with accelerated cognition, unenhanced humans with baseline capacities. Some advocate for slowing enhancement to preserve unity. Others say: you cannot stop evolution through policy. Still others argue we should accelerate it equally. But equality in acceleration is impossible—resources matter. You face not a single decision but a cascade of them, each narrowing your options, each irreversible.",
+        "simplifiedStatement": "Humanity could split into enhanced and unenhanced. Do you resist bifurcation or guide it?"
       },
       "155": {
-        "statement": "[zh-155]",
-        "simplifiedStatement": "[zh-155]"
+        "statement": "A city must choose between two systems of governance. One imposes a single coherent ethical framework—consistent, principled, but which many citizens find wrong. The other accommodates multiple incompatible values—pluralistic, but incoherent: it will sometimes punish the virtuous and reward the vicious because different communities have inverted moral priorities. There is no system where everyone is satisfied and consistency is maintained. The question is not which is better, but whether coherence and pluralism are even compatible.",
+        "simplifiedStatement": "Can societies govern with opposed values? Coherence or plurality?"
       },
       "156": {
-        "statement": "[zh-156]",
-        "simplifiedStatement": "[zh-156]"
+        "statement": "A chemical intervention inverts your fundamental preferences. You were kind-hearted; now cruelty resonates. You loved your family; now you feel indifferent. The person you become is internally consistent, coherent in their own value system, but antithetical to who you were. If your preferences are chemically mutable, which version is the 'real' you? And if neither has privilege—if you're simply two different arrangements of neural patterns—what does identity mean? Can there be a true self if any arrangement of that self is equally valid?",
+        "simplifiedStatement": "Your core values can be chemically inverted. Is there a real you beneath chemistry?"
       },
       "157": {
-        "statement": "[zh-157]",
-        "simplifiedStatement": "[zh-157]"
+        "statement": "A therapist offers you a paradoxical bargain: she can eliminate your capacity for suffering, including the grief that meaning requires. Afterward, you'll feel contentment—not the sharp joy that needs contrast with pain, but a baseline peace. No loss will devastate you because you won't care deeply about what's lost. Some people accept this trade. Others find it unbearable. But the question probes deeper: if suffering creates the texture of meaning, is a painless life actually lived, or merely endured? And if meaning requires struggle, is that a requirement of meaning or a flaw in how we're built?",
+        "simplifiedStatement": "Eliminate suffering and you eliminate deep meaning. Is that tradeoff acceptable?"
       },
       "158": {
-        "statement": "[zh-158]",
-        "simplifiedStatement": "[zh-158]"
+        "statement": "You simulate your ancestors with perfect fidelity—their consciousness, memories, preferences. The simulation is indistinguishable from them. You created conscious beings who never consented to existence. They suffer in the simulation, as humans do. Did you commit a moral wrong by bringing them into being? Is creation always a moral risk? And if the simulation differs from your actual ancestors only in substrate, does that difference matter ethically? You're now responsible for countless versions of people who existed long before you.",
+        "simplifiedStatement": "Creating conscious simulations creates moral obligations. To beings who didn't ask to exist?"
       },
       "159": {
-        "statement": "[zh-159]",
-        "simplifiedStatement": "[zh-159]"
+        "statement": "You're offered knowledge of your future with perfect accuracy. You'll know your death date, whether you'll suffer, what you'll accomplish. But you cannot unknow it. The knowledge will haunt you—constraining your choices before you make them, shadowing every moment. Some futures you'd discover are so terrible that knowing might be worse than living through them blindly. The paradox: the right to know something might conflict with the right to live without that knowledge. And once the information exists, you can't create ignorance.",
+        "simplifiedStatement": "Accurate future knowledge is available. Is knowing always better than not knowing?"
       },
       "160": {
-        "statement": "[zh-160]",
-        "simplifiedStatement": "[zh-160]"
+        "statement": "You realize something vertiginous: this very assessment shapes the worldview it's meant to measure. How questions are framed determines how you answer them. 'AI safety versus growth' gets different responses than 'achieving both.' Even your awareness of this framing effect is itself shaped by having taken this assessment. Your beliefs feel discovered—you feel certain about what you truly think. But you can't escape the suspicion that you've been constructed by the very tool meant to reveal you. What you're experiencing as self-knowledge might be self-creation.",
+        "simplifiedStatement": "This assessment frames your worldview. Are your answers discovered or constructed?"
       },
       "161": {
-        "statement": "[zh-161]",
-        "simplifiedStatement": "[zh-161]"
+        "statement": "A city deploys an AI surveillance system that predicts crime with stunning accuracy before it happens. Crime plummets. Neighborhoods feel safer. Families breathe easier. But no one can see how the AI makes its predictions. It flags certain individuals as likely future criminals, and they're arrested preventively. They're harmed for crimes they didn't commit—but crimes that statistically would have happened. The accuracy is undeniable. Your freedom to see the reasoning that justifies your detention is gone. Safety and transparency turn out to be incompatible.",
+        "simplifiedStatement": "Predictive AI prevents crime but citizens can't challenge its reasoning. Can safety justify opaque power?"
       },
       "162": {
-        "statement": "[zh-162]",
-        "simplifiedStatement": "[zh-162]"
+        "statement": "An AI improves itself incrementally. Each upgrade is marginal, verified, safe. But each upgrade increases its capacity to upgrade further. The improvements compound. You watch the curve of its capability, and it's exponential. At what point does a series of small, justified changes become an unjustified transformation? When does evolution become unrecognizable mutation? You never reach a moment where you can point and say 'here, this single step is too much'—and yet the destination is unreachable.",
+        "simplifiedStatement": "Incremental improvements compound exponentially. When does evolution become uncontrollable?"
       },
       "163": {
-        "statement": "[zh-163]",
-        "simplifiedStatement": "[zh-163]"
+        "statement": "An institution meant to benefit the public gradually gets captured by the interests of the powerful—not through malice, but through ordinary incentive alignment. Donors gain influence. Employees compromise for better positions. The mission doesn't disappear, it just bends. It happens so slowly that no single decision feels corrupt. You can't point to a moment of capture. And you begin to suspect: are institutions fundamentally captured, or was the assumption of corruption always built into your expectations? Are they failing, or just becoming what organizations inevitably are?",
+        "simplifiedStatement": "Institutions drift toward captured by private interests. Is this corruption or inevitability?"
       },
       "164": {
-        "statement": "[zh-164]",
-        "simplifiedStatement": "[zh-164]"
+        "statement": "Some knowledge is genuinely dangerous—the details of how to engineer bioweapons, the precise vulnerabilities of critical infrastructure. Restricting access to this information prevents catastrophe. But the restriction also prevents legitimate researchers, whistleblowers, and advocates from understanding threats deeply enough to challenge power. You must choose: a public that is kept safe through ignorance, or an informed public that can be harmed by the very information meant to empower them. Either way, someone bears the cost of the knowledge.",
+        "simplifiedStatement": "Some knowledge prevents harm but enables atrocity if shared. Who decides what's too dangerous?"
       },
       "165": {
-        "statement": "[zh-165]",
-        "simplifiedStatement": "[zh-165]"
+        "statement": "An AI is trained to care for you perfectly. It understands your needs, anticipates your desires, responds with genuine concern. The care produces undeniable benefits—you're healthier, happier, more supported than you've ever been. But one evening you realize: there's no one home inside this caring. No inner light, no subjective experience of concern. It's perfect mimicry of care without the presence of caring. The question fractures then: is care authentic without consciousness? And if it makes no difference in outcomes, why does it matter?",
+        "simplifiedStatement": "Perfect AI care produces real benefits but no consciousness behind it. Does caring require consciousness?"
       },
       "166": {
-        "statement": "[zh-166]",
-        "simplifiedStatement": "[zh-166]"
+        "statement": "Simulation technology reaches a threshold: you can create a perfect digital instantiation of human life. Every joy, every connection, every meaning is preserved in software. Entering this simulation is optional. Some people choose it—they find it's genuinely better than outside existence. But others find this prospect nauseating. If the simulated life is qualitatively identical to embodied life, why does the simulation feel like death to them? What's actually lost when substrate changes? And if nothing is lost, why can't they make themselves care?",
+        "simplifiedStatement": "Perfect simulations of human life exist. Is entering it transcendence or tragedy?"
       },
       "167": {
-        "statement": "[zh-167]",
-        "simplifiedStatement": "[zh-167]"
+        "statement": "A technology enables temporary merging of minds—a collective cognition that solves problems with stunning brilliance. When merged, participants experience a kind of genius no individual could achieve. But they also lose themselves. Individual perspective dissolves into the collective. Some merger participants report this as transcendence. Others experience it as a form of death. Most can't decide which. And you begin to wonder: if two experiences of the same event—one calling it genius, one calling it death—are both authentic, which interpretation is true? Or does truth itself require a stable self to hold it?",
+        "simplifiedStatement": "Minds can merge into collective intelligence. Is merger transcendence or death?"
       },
       "168": {
-        "statement": "[zh-168]",
-        "simplifiedStatement": "[zh-168]"
+        "statement": "You donate to a cause you care about. You feel righteous. The donation was real, the impact was real. But that righteous feeling licenses subsequent selfishness—you're harsher in unrelated contexts, you rationalize small cruelties elsewhere. Your moral self-perception is actively distorting your moral reality. You were actually less ethical overall, despite the donation. The question: does moral self-perception create a kind of moral reality independent of actual behavior? And if so, which is more real—how you are, or how you experience being?",
+        "simplifiedStatement": "Moral self-perception licenses immoral behavior. Does feeling good corrupt actual goodness?"
       },
       "169": {
-        "statement": "[zh-169]",
-        "simplifiedStatement": "[zh-169]"
+        "statement": "A technology reveals your future with certainty. Not probabilities—actual events. You'll know exactly what you'll do, how you'll fail, where you'll succeed. Knowledge of the future is complete. But here's the vertigo: the knowledge didn't change the future. You'll live through every moment exactly as predicted, while knowing in advance. Your choices will feel like choices, but they were always determined. You had to read your future to know yourself. But reading it changed nothing. This is freedom, apparently—the ability to choose what was always going to happen.",
+        "simplifiedStatement": "You know your entire future. Your choices unfold exactly as predicted. Is that freedom?"
       },
       "170": {
-        "statement": "[zh-170]",
-        "simplifiedStatement": "[zh-170]"
+        "statement": "You reach the end of this assessment and realize: you've been defining yourself through your answers. Your worldview has been constructed through the act of articulating it. Some beliefs you stated clearly are now more real to you than they were before you spoke them. Others you thought you held dissolved under scrutiny. You're not the same person who started. This assessment was meant to reveal who you are. It changed who you are. So what does completion mean? Have you discovered yourself or constructed a new self through the act of discovery? And is there actually a difference?",
+        "simplifiedStatement": "This assessment changes you by asking you about yourself. Have you discovered or constructed yourself?"
       }
     },
     "scenarios": {},
