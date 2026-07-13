@@ -934,7 +934,87 @@ export const translations: Record<SupportedLanguage, LanguageTranslation> = {
         "name": "Border/Migration Surveillance Critic",
         "summary": "Watches how AI tracking and risk scores get used against refugees at borders and camps. Wants human-rights law and real accountability here, not faster rollout. Centers the people AI is used against, not the people who build it."
       }
-    }
+    ,
+      "afrofuturist-liberationist": {
+        "name": "Afrofuturist Liberationist",
+        "summary": "Blends African diaspora futures with liberation politics. Sees AI through Afrofuturism: technologically radical Black futures."
+      },
+      "ecocritical-posthumanist": {
+        "name": "Ecocritical Posthumanist",
+        "summary": "Integrates ecological critique with posthumanist theory. Treats AI, humans, and ecosystems as co-evolving."
+      },
+      "xenofeminist-technologist": {
+        "name": "Xenofeminist Technologist",
+        "summary": "Advocates for feminist appropriation of technology. Rejects bioessentialism and tech-solutionism."
+      },
+      "nomadic-polymorphic-thinker": {
+        "name": "Nomadic & Polymorphic Thinker",
+        "summary": "Embraces nomadic subjectivity and distributed agency. Draws on Rosi Braidotti's theory."
+      },
+      "speculative-posthuman-designer": {
+        "name": "Speculative Posthuman Designer",
+        "summary": "Uses speculative design to imagine posthuman futures. Engages with thought experiments."
+      },
+      "multispecies-relationalist": {
+        "name": "Multispecies Relationalist",
+        "summary": "Centers non-human beings in ethical frameworks. Draws on multispecies studies and Donna Haraway."
+      },
+      "necropolitical-analyst": {
+        "name": "Necropolitical Analyst",
+        "summary": "Analyzes how technology is weaponized against marginalized populations."
+      },
+      "trans-embodied-theorist": {
+        "name": "Trans-Embodied Theorist",
+        "summary": "Grounds posthumanism in trans* experience and embodiment."
+      },
+      "object-oriented-ontologist": {
+        "name": "Object-Oriented Ontologist",
+        "summary": "Resists anthropocentrism by granting objects and algorithms genuine autonomy."
+      },
+      "resilience-ecology-advocate": {
+        "name": "Resilience & Ecology Advocate",
+        "summary": "Emphasizes adaptive capacity and ecological flourishing over technological dominance."
+      },
+      "precognitive-speculative-futurist": {
+        "name": "Precognitive Speculative Futurist",
+        "summary": "Engages with alternative temporalities beyond linear progress."
+      },
+      "platform-cooperative-organizer": {
+        "name": "Platform Cooperative Organizer",
+        "summary": "Advocates for democratically-owned digital infrastructure."
+      },
+      "queer-temporal-theorist": {
+        "name": "Queer Temporal Theorist",
+        "summary": "Imagines queer, non-linear temporalities. Explores how AI reshapes futures."
+      },
+      "maternal-reproductive-posthumanist": {
+        "name": "Maternal/Reproductive Posthumanist",
+        "summary": "Centers maternity and reproductive care in posthumanist frameworks."
+      },
+      "affect-political-theorist": {
+        "name": "Affect & Political Theory Scholar",
+        "summary": "Studies how affects shape political possibilities. Examines networked emotions."
+      },
+      "new-materialism-scholar": {
+        "name": "New Materialism Theorist",
+        "summary": "Rejects human/matter dualism. Treats matter as active and relational."
+      },
+      "decolonial-indigenous-futurist": {
+        "name": "Decolonial/Indigenous Futurist",
+        "summary": "Centers indigenous knowledge and sovereignty. Imagines indigenous-led AI futures."
+      },
+      "digital-media-theorist": {
+        "name": "Digital Media & Culture Theorist",
+        "summary": "Analyzes computational culture and digital citizenship."
+      },
+      "architectural-ecology-theorist": {
+        "name": "Architectural Ecology & Design Theorist",
+        "summary": "Integrates architectural thinking with ecological design and spatial theory."
+      },
+      "memory-archive-scholar": {
+        "name": "Memory/Archive Scholar",
+        "summary": "Explores temporal politics of memory and archives. Questions how AI reshapes collective memory."
+      }}
   },
   "es": {
     "questions": {
